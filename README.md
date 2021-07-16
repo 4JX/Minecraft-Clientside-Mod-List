@@ -46,7 +46,6 @@
 |          LazyDFU          | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/lazydfu)                                                                                                              |
 | Enchanced Block Entities  | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/ebe)                                                                                                                  |
 |        DynamicFPS         | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/dynamic-fps)                                                                                                          |
-|           Blur            | 1.17.1  | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/blur-fabric)                                                                                                          |
 |       ClickThrough        | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/clickthrough)                                                                                                         |
 |       Mouse Wheelie       | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/mouse-wheelie)                                                                                                        |
 |         AntiGhost         | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/antighost)                                                                                                            |
@@ -108,6 +107,7 @@
 |        NBT Tooltip         | 1.17.1  | HUD         | No    | [Yes](https://modrinth.com/mod/nbttooltip)                                      |
 | Customizable Player Models | 1.17.1  | HUD         | No    | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric) |
 |          Resclone          |  1.17   | Utility     | No    | [Yes](https://modrinth.com/mod/resclone)                                        |
+|            Blur            | 1.17.1  | Game Look   | No    | [Yes](https://modrinth.com/mod/blur-fabric)                                     |
 
 https://www.planetminecraft.com/texture-pack/default-3d-2985741/
 
