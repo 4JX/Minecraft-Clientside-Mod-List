@@ -98,6 +98,8 @@
 |          Krypton          | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/krypton)                                           |
 |           NoFog           | 1.17.1  | Game Look   | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/nofog)                         |
 |        Clear Skies        |  1.17   | Game Look   | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/clear-skies)                   |
+|           Blur            | 1.17.1  | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/blur-fabric)                                       |
+|         Ok Zoomer         | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/ok-zoomer)                                         |
 
 **Dependencies**
 [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/)
@@ -124,14 +126,12 @@
 
 |          Mod Name          | Version | Category    | Forge | Fabric                                                                          |
 | :------------------------: | :-----: | ----------- | ----- | ------------------------------------------------------------------------------- |
-|         Ok Zoomer          | 1.17.1  | Gameplay    | No    | [Yes](https://modrinth.com/mod/ok-zoomer)                                       |
 |        Servers Plus        | 1.16.5  | HUD         | No    | [Yes](https://modrinth.com/mod/serversplus)                                     |
 |    Custom Splash Screen    | 1.17.1  | HUD         | No    | [Yes](https://modrinth.com/mod/custom-splash-screen/)                           |
 |            Grid            | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/grid)                                            |
 |        NBT Tooltip         | 1.17.1  | HUD         | No    | [Yes](https://modrinth.com/mod/nbttooltip)                                      |
 | Customizable Player Models | 1.17.1  | HUD         | No    | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric) |
 |          Resclone          |  1.17   | Utility     | No    | [Yes](https://modrinth.com/mod/resclone)                                        |
-|            Blur            | 1.17.1  | Game Look   | No    | [Yes](https://modrinth.com/mod/blur-fabric)                                     |
 |         DashLoader         | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/dashloader)                                      |
 
 https://www.planetminecraft.com/texture-pack/default-3d-2985741/
