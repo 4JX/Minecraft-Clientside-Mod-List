@@ -90,15 +90,20 @@
 | Enhanced Attack Indicator | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/enhanced-attack-indicator)                                                                                            |
 |           Slyde           |  1.17   | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/slyde)                                                                                                                |
 |       Loading Timer       | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/loading-timer)                                                                                                        |
-|        Drip Sounds        | 1.17.1  | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/dripsounds-fabric)                                                                                                    |
+|  Flour's Various Tweaks   | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/fvt)                                                                                                                  |
+|       Iris Shaders        |  1.17   | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/iris)                                                                                                                 |
+
+**Not compatible with Iris**
+
+|  Mod Name   | Version | Category  | Forge | Fabric                                            |
+| :---------: | :-----: | --------- | ----- | ------------------------------------------------- |
+| Drip Sounds | 1.17.1  | Game Look | No    | [Yes](https://modrinth.com/mod/dripsounds-fabric) |
 
 **Not used**
 
 |          Mod Name          | Version | Category    | Forge | Fabric                                                                          |
 | :------------------------: | :-----: | ----------- | ----- | ------------------------------------------------------------------------------- |
-|        Iris Shaders        |  1.17   | Game Look   | No    | [Yes](https://modrinth.com/mod/iris)                                            |
 |         Ok Zoomer          | 1.17.1  | Gameplay    | No    | [Yes](https://modrinth.com/mod/ok-zoomer)                                       |
-|   Flour's Various Tweaks   | 1.17.1  | Utility     | No    | [Yes](https://modrinth.com/mod/fvt)                                             |
 |        Servers Plus        | 1.16.5  | HUD         | No    | [Yes](https://modrinth.com/mod/serversplus)                                     |
 |    Custom Splash Screen    | 1.17.1  | HUD         | No    | [Yes](https://modrinth.com/mod/custom-splash-screen/versions)                   |
 |     LambdaBetterGrass      | 1.17.1  | Game Look   | No    | [Yes](https://modrinth.com/mod/lambdabettergrass)                               |
