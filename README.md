@@ -44,7 +44,6 @@
 |          ModMenu          | 1.17.1  | Utility     | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/modmenu)                                                                                          |
 |         AppleSkin         | 1.17.1  | Utility     | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/appleskin)                                                                                        |
 |          LazyDFU          | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/lazydfu)                                                                                                              |
-| Enchanced Block Entities  | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/ebe)                                                                                                                  |
 |        DynamicFPS         | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/dynamic-fps)                                                                                                          |
 |       ClickThrough        | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/clickthrough)                                                                                                         |
 |       Mouse Wheelie       | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/mouse-wheelie)                                                                                                        |
@@ -92,6 +91,7 @@
 |       Loading Timer       | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/loading-timer)                                                                                                        |
 |  Flour's Various Tweaks   | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/fvt)                                                                                                                  |
 |       Iris Shaders        |  1.17   | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/iris)                                                                                                                 |
+|        DashLoader         | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/dashloader)                                                                                                           |
 
 **Not compatible with Iris**
 
@@ -99,15 +99,21 @@
 | :---------: | :-----: | --------- | ----- | ------------------------------------------------- |
 | Drip Sounds | 1.17.1  | Game Look | No    | [Yes](https://modrinth.com/mod/dripsounds-fabric) |
 
+**Not compatible with DashLoader**
+| Mod Name | Version | Category | Forge | Fabric |
+| :---------: | :-----: | --------- | ----- | ------------------------------------------------- |
+| Enchanced Block Entities | 1.17.1 | Performance | No | [Yes](https://modrinth.com/mod/ebe) |
+
 **Not used**
 
 |          Mod Name          | Version | Category    | Forge | Fabric                                                                          |
 | :------------------------: | :-----: | ----------- | ----- | ------------------------------------------------------------------------------- |
 |         Ok Zoomer          | 1.17.1  | Gameplay    | No    | [Yes](https://modrinth.com/mod/ok-zoomer)                                       |
 |        Servers Plus        | 1.16.5  | HUD         | No    | [Yes](https://modrinth.com/mod/serversplus)                                     |
-|    Custom Splash Screen    | 1.17.1  | HUD         | No    | [Yes](https://modrinth.com/mod/custom-splash-screen/versions)                   |
+|    Custom Splash Screen    | 1.17.1  | HUD         | No    | [Yes](https://modrinth.com/mod/custom-splash-screen/)                           |
 |     LambdaBetterGrass      | 1.17.1  | Game Look   | No    | [Yes](https://modrinth.com/mod/lambdabettergrass)                               |
-|         DashLoader         | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/dashloader)                                      |
+|    LambdaDynamicLights     | 1.17.1  | Game Look   | No    | [Yes](https://modrinth.com/mod/lambdynamiclights/)                              |
+|        Clear Skies         |  1.17   | Game Look   | No    | [Yes](https://www.curseforge.com/minecraft/mc-mods/clear-skies)                 |
 |            Grid            | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/grid)                                            |
 |        NBT Tooltip         | 1.17.1  | HUD         | No    | [Yes](https://modrinth.com/mod/nbttooltip)                                      |
 | Customizable Player Models | 1.17.1  | HUD         | No    | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric) |
@@ -155,6 +161,6 @@ https://www.planetminecraft.com/texture-pack/default-3d-2985741/
 |    Don't Drop It!     | 1.16.4  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/HcVOCzMh)                                                                                      |
 |     QuickReplant      | 1.16.5  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/quickreplant)                                                                                  |
 |   Better Eating Mod   | 1.16.5  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/better-eating)                                                                                 |
-|      Auto Torch       | 1.16.5  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/auto-torch/versions)                                                                           |
+|      Auto Torch       | 1.16.5  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/auto-torch/)                                                                                   |
 |       QuickCalc       | 1.16.5  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/quickcalc)                                                                                     |
 | BetterEnchantedBooks  | 1.16.5  | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/better-enchanted-books)                                                                        |
