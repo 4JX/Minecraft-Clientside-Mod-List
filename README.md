@@ -59,13 +59,13 @@
 |       FLightHelper        | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/flighthelper)                                                                                                         |
 |       FPS - Display       | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/fpsdisplay)                                                                                                           |
 |        Charmonium         | 1.17.1  | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/charmonium)                                                                                                           |
-|         DeathLog          | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/deathlog)                                                                                                             |
+|         DeathLog          | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/deathlog)                                                                                                             |
 |      Entity Distance      | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/entity-distance)                                                                                                      |
 |     Head-down Display     | 1.16.4  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/hdd)                                                                                                                  |
 |        SeedMapper         | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/seedmapper)                                                                                                           |
 |       NoRecipeBook        | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/norecipebook-fabric)                                                                                                  |
-| No Nether Portal Overlay  | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/no-nether-portal-overlay) [Dep](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/download/3364215) |
-|    Memory Usage Screen    | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/memory-usage-screen)                                                                                                  |
+| No Nether Portal Overlay  | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/no-nether-portal-overlay) [Dep](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/download/3364215) |
+|    Memory Usage Screen    | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/memory-usage-screen)                                                                                                  |
 |        Name Lookup        | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/name-lookup)                                                                                                          |
 | Don't Clear Chat History  | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/dcch)                                                                                                                 |
 |  Seamless Loading Screen  |  1.17   | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/seamless-loading-screen)                                                                                              |
@@ -84,7 +84,7 @@
 |     Invisible Frames      |  1.17   | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/invisframes)                                                                                                          |
 |   Quick Connect Button    | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/quickconnectbutton)                                                                                                   |
 |   Critical Orientation    | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/orientation)                                                                                                          |
-| Emma's Simple Elytra View | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/esev)                                                                                                                 |
+| Emma's Simple Elytra View | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/esev)                                                                                                                 |
 |    Presence Footsteps     |  1.17   | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/presence-footsteps)                                                                                                   |
 | Enhanced Attack Indicator | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/enhanced-attack-indicator)                                                                                            |
 |           Slyde           |  1.17   | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/slyde)                                                                                                                |
@@ -92,6 +92,8 @@
 |  Flour's Various Tweaks   | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/fvt)                                                                                                                  |
 |       Iris Shaders        |  1.17   | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/iris)                                                                                                                 |
 |        DashLoader         | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/dashloader)                                                                                                           |
+|    LambdaDynamicLights    | 1.17.1  | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/lambdynamiclights/)                                                                                                   |
+|         Starlight         | 1.17.1  | Performance | No                                                                           | [Yes](https://github.com/Tuinity/Starlight)                                                                                                          |
 
 **Not compatible with Iris**
 
@@ -100,9 +102,12 @@
 | Drip Sounds | 1.17.1  | Game Look | No    | [Yes](https://modrinth.com/mod/dripsounds-fabric) |
 
 **Not compatible with DashLoader**
-| Mod Name | Version | Category | Forge | Fabric |
-| :---------: | :-----: | --------- | ----- | ------------------------------------------------- |
-| Enchanced Block Entities | 1.17.1 | Performance | No | [Yes](https://modrinth.com/mod/ebe) |
+
+|         Mod Name         | Version | Category    | Forge | Fabric                                                                       |
+| :----------------------: | :-----: | ----------- | ----- | ---------------------------------------------------------------------------- |
+| Enchanced Block Entities | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/ebe)                                          |
+|    LambdaBetterGrass     | 1.17.1  | Game Look   | No    | [Yes](https://modrinth.com/mod/lambdabettergrass)                            |
+| Connected Block Textures | 1.16.5  | Game Look   | No    | [Yes](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures) |
 
 **Not used**
 
@@ -111,8 +116,6 @@
 |         Ok Zoomer          | 1.17.1  | Gameplay    | No    | [Yes](https://modrinth.com/mod/ok-zoomer)                                       |
 |        Servers Plus        | 1.16.5  | HUD         | No    | [Yes](https://modrinth.com/mod/serversplus)                                     |
 |    Custom Splash Screen    | 1.17.1  | HUD         | No    | [Yes](https://modrinth.com/mod/custom-splash-screen/)                           |
-|     LambdaBetterGrass      | 1.17.1  | Game Look   | No    | [Yes](https://modrinth.com/mod/lambdabettergrass)                               |
-|    LambdaDynamicLights     | 1.17.1  | Game Look   | No    | [Yes](https://modrinth.com/mod/lambdynamiclights/)                              |
 |        Clear Skies         |  1.17   | Game Look   | No    | [Yes](https://www.curseforge.com/minecraft/mc-mods/clear-skies)                 |
 |            Grid            | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/grid)                                            |
 |        NBT Tooltip         | 1.17.1  | HUD         | No    | [Yes](https://modrinth.com/mod/nbttooltip)                                      |
