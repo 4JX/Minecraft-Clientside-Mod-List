@@ -36,7 +36,6 @@
 |        AutoSwitch         | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch)             |
 |         AutoFish          | 1.17.1  | Gameplay    | [Yes](https://www.curseforge.com/minecraft/mc-mods/autofish)                 | [Yes](https://www.curseforge.com/minecraft/mc-mods/autofish)                      |
 |   Precise Block Placing   | 1.17.1  | Gameplay    | [Yes](https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing)      | [Yes](https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing)           |
-|       Mouse Tweaks        | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)                  |
 |      Sipler Harvest       |  1.17   | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/simplerharvest)                |
 |     Auto Third Person     | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/auto-third-person)             |
 |      Entity Culling       | 1.17.1  | Performance | [Yes](https://www.curseforge.com/minecraft/mc-mods/entityculling)            | [Yes](https://www.curseforge.com/minecraft/mc-mods/entityculling)                 |
@@ -55,14 +54,11 @@
 |        Fabricshot         | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/fabrishot)                                         |
 |         WorldTime         | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/worldtime)                                         |
 |    Horse Stats Vanilla    | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/horsestatsvanilla)                                 |
-|       AdvancedChat        | 1.16.5  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/advancedchat)                                      |
 |       FLightHelper        | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/flighthelper)                                      |
 |       FPS - Display       | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/fpsdisplay)                                        |
 |        Charmonium         | 1.17.1  | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/charmonium)                                        |
 |         DeathLog          | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/deathlog)                                          |
 |      Entity Distance      | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/entity-distance)                                   |
-|     Head-down Display     | 1.16.4  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/hdd)                                               |
-|        SeedMapper         | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/seedmapper)                                        |
 |       NoRecipeBook        | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/norecipebook-fabric)                               |
 | No Nether Portal Overlay  | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/no-nether-portal-overlay)                          |
 |    Memory Usage Screen    | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/memory-usage-screen)                               |
@@ -75,7 +71,6 @@
 |       Extra Sounds        | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/extrasounds)                                       |
 |         PetOwner          |  1.17   | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/petowner)                                          |
 |     NotEnoughCrashes      | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/notenoughcrashes)                                  |
-|        ThatOrThis         |  1.17   | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/thatorthis)                                        |
 |         No Strip          | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/no-strip)                                          |
 |        StatsSearch        |  1.17   | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/statssearch)                                       |
 |    Better Third Person    | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/better-third-person)                               |
@@ -133,6 +128,8 @@
 | Customizable Player Models | 1.17.1  | HUD         | No    | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric) |
 |          Resclone          |  1.17   | Utility     | No    | [Yes](https://modrinth.com/mod/resclone)                                        |
 |         DashLoader         | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/dashloader)                                      |
+|         SeedMapper         | 1.17.1  | Utility     | No    | [Yes](https://modrinth.com/mod/seedmapper)                                      |
+|         ThatOrThis         |  1.17   | Utility     | No    | [Yes](https://modrinth.com/mod/thatorthis)                                      |
 
 https://www.planetminecraft.com/texture-pack/default-3d-2985741/
 
@@ -178,3 +175,5 @@ https://www.planetminecraft.com/texture-pack/default-3d-2985741/
 |      Auto Torch       | 1.16.5  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/auto-torch/)                                                                                   |
 |       QuickCalc       | 1.16.5  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/quickcalc)                                                                                     |
 | BetterEnchantedBooks  | 1.16.5  | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/better-enchanted-books)                                                                        |
+|   Head-down Display   | 1.16.4  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/hdd)                                                                                           |
+|     AdvancedChat      | 1.16.5  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/advancedchat)                                                                                  |
