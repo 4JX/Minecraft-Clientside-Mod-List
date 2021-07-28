@@ -64,6 +64,12 @@
 
   Adds a variety of sounds when stepping through different terrains
 
+- [Drip Sounds](https://modrinth.com/mod/dripsounds-fabric)
+
+  Adds sounds to drip particles
+
+  - **Not compatible with Iris**
+
 ## **HUD**
 
 - [**Advancements Enlarger**](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
@@ -358,12 +364,6 @@
 
 [AutoConfig](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api)
 
-**Not compatible with Iris**
-
-|  Mod Name   | Version | Category  | Forge | Fabric                                            |
-| :---------: | :-----: | --------- | ----- | ------------------------------------------------- |
-| Drip Sounds | 1.17.1  | Game Feel | No    | [Yes](https://modrinth.com/mod/dripsounds-fabric) |
-
 **Not compatible with DashLoader**
 
 |         Mod Name         | Version | Category    | Forge | Fabric                                                                       |
@@ -371,30 +371,30 @@
 | Enchanced Block Entities | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/ebe)                                          |
 |    LambdaBetterGrass     | 1.17.1  | Game Feel   | No    | [Yes](https://modrinth.com/mod/lambdabettergrass)                            |
 | Connected Block Textures | 1.16.5  | Game Feel   | No    | [Yes](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures) |
+|         Hydrogen         | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/hydrogen/)                                    |
 
 **Not used**
 
-|          Mod Name          | Version | Category    | Forge                                                          | Fabric                                                                          |
-| :------------------------: | :-----: | ----------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-|        Servers Plus        | 1.16.5  | HUD         | No                                                             | [Yes](https://modrinth.com/mod/serversplus)                                     |
-|    Custom Splash Screen    | 1.17.1  | HUD         | No                                                             | [Yes](https://modrinth.com/mod/custom-splash-screen/)                           |
-|            Grid            | 1.17.1  | Utility     | No                                                             | [Yes](https://modrinth.com/mod/grid)                                            |
-|        NBT Tooltip         | 1.17.1  | HUD         | No                                                             | [Yes](https://modrinth.com/mod/nbttooltip)                                      |
-| Customizable Player Models | 1.17.1  | HUD         | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric) |
-|          Resclone          |  1.17   | Utility     | No                                                             | [Yes](https://modrinth.com/mod/resclone)                                        |
-|         SeedMapper         | 1.17.1  | Utility     | No                                                             | [Yes](https://modrinth.com/mod/seedmapper)                                      |
-|         ThatOrThis         |  1.17   | Utility     | No                                                             | [Yes](https://modrinth.com/mod/thatorthis)                                      |
-|          Hydrogen          | 1.17.1  | Performance | No                                                             | [Yes](https://modrinth.com/mod/hydrogen/)                                       |
-|     Simple Discord RPC     |  1.17   | Utility     | No                                                             | [Yes](https://modrinth.com/mod/simple-discord-rpc)                              |
-|      Visual Overhaul       |  1.17   | Game Feel   | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul)             |
-|           Bobby            |  1.17   | Game Feel   | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/bobby)                       |
-|         HUDTweaks          |  1.17   | HUD         | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/hudtweaks)                   |
-|         BetterPVP          |  1.17   | HUD         | [Yes](https://www.planetminecraft.com/mod/164-better-pvp-v10/) | [Yes](https://www.planetminecraft.com/mod/164-better-pvp-v10/)                  |
-|        Physics Mod         | 1.17.1  | Gameplay    | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/physics-mod)                 |
-|           Beenfo           | 1.17.1  | Gameplay    | No                                                             | [Yes](https://modrinth.com/mod/beenfo)                                          |
-|         WorldTime          | 1.17.1  | HUD         | No                                                             | [Yes](https://modrinth.com/mod/worldtime)                                       |
-|      Invisible Frames      |  1.17   | Game Feel   | No                                                             | [Yes](https://modrinth.com/mod/invisframes)                                     |
-|        Iris Shaders        |  1.17   | Game Feel   | No                                                             | [Yes](https://modrinth.com/mod/iris)                                            |
+|          Mod Name          | Version | Category  | Forge                                                          | Fabric                                                                          |
+| :------------------------: | :-----: | --------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+|        Servers Plus        | 1.16.5  | HUD       | No                                                             | [Yes](https://modrinth.com/mod/serversplus)                                     |
+|    Custom Splash Screen    | 1.17.1  | HUD       | No                                                             | [Yes](https://modrinth.com/mod/custom-splash-screen/)                           |
+|            Grid            | 1.17.1  | Utility   | No                                                             | [Yes](https://modrinth.com/mod/grid)                                            |
+|        NBT Tooltip         | 1.17.1  | HUD       | No                                                             | [Yes](https://modrinth.com/mod/nbttooltip)                                      |
+| Customizable Player Models | 1.17.1  | HUD       | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric) |
+|          Resclone          |  1.17   | Utility   | No                                                             | [Yes](https://modrinth.com/mod/resclone)                                        |
+|         SeedMapper         | 1.17.1  | Utility   | No                                                             | [Yes](https://modrinth.com/mod/seedmapper)                                      |
+|         ThatOrThis         |  1.17   | Utility   | No                                                             | [Yes](https://modrinth.com/mod/thatorthis)                                      |
+|     Simple Discord RPC     |  1.17   | Utility   | No                                                             | [Yes](https://modrinth.com/mod/simple-discord-rpc)                              |
+|      Visual Overhaul       |  1.17   | Game Feel | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul)             |
+|           Bobby            |  1.17   | Game Feel | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/bobby)                       |
+|         HUDTweaks          |  1.17   | HUD       | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/hudtweaks)                   |
+|         BetterPVP          |  1.17   | HUD       | [Yes](https://www.planetminecraft.com/mod/164-better-pvp-v10/) | [Yes](https://www.planetminecraft.com/mod/164-better-pvp-v10/)                  |
+|        Physics Mod         | 1.17.1  | Gameplay  | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/physics-mod)                 |
+|           Beenfo           | 1.17.1  | Gameplay  | No                                                             | [Yes](https://modrinth.com/mod/beenfo)                                          |
+|         WorldTime          | 1.17.1  | HUD       | No                                                             | [Yes](https://modrinth.com/mod/worldtime)                                       |
+|      Invisible Frames      |  1.17   | Game Feel | No                                                             | [Yes](https://modrinth.com/mod/invisframes)                                     |
+|        Iris Shaders        |  1.17   | Game Feel | No                                                             | [Yes](https://modrinth.com/mod/iris)                                            |
 
 **Unstable**
 
