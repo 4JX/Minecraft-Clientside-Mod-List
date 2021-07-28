@@ -352,99 +352,102 @@
 
   - **Beta, but stable**
 
-**Dependencies**
+**Libraries**
 
-[Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/)
+- [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/)
 
-[Malilib](https://www.curseforge.com/minecraft/mc-mods/malilib)
+- [Malilib](https://www.curseforge.com/minecraft/mc-mods/malilib)
 
-[Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
+- [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
 
-[Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+- [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 
-[AutoConfig](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api)
+- [AutoConfig](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api)
 
 **Not compatible with DashLoader**
 
-|         Mod Name         | Version | Category    | Forge | Fabric                                                                       |
-| :----------------------: | :-----: | ----------- | ----- | ---------------------------------------------------------------------------- |
-| Enchanced Block Entities | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/ebe)                                          |
-|    LambdaBetterGrass     | 1.17.1  | Game Feel   | No    | [Yes](https://modrinth.com/mod/lambdabettergrass)                            |
-| Connected Block Textures | 1.16.5  | Game Feel   | No    | [Yes](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures) |
-|         Hydrogen         | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/hydrogen/)                                    |
+|         Mod Name         | Version | Category    | Fabric                                            |
+| :----------------------: | :-----: | ----------- | ------------------------------------------------- |
+| Enchanced Block Entities | 1.17.1  | Performance | [Yes](https://modrinth.com/mod/ebe)               |
+|    LambdaBetterGrass     | 1.17.1  | Game Feel   | [Yes](https://modrinth.com/mod/lambdabettergrass) |
+|         Hydrogen         | 1.17.1  | Performance | [Yes](https://modrinth.com/mod/hydrogen/)         |
 
 **Not used**
 
-|          Mod Name          | Version | Category  | Forge                                                          | Fabric                                                                          |
-| :------------------------: | :-----: | --------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-|        Servers Plus        | 1.16.5  | HUD       | No                                                             | [Yes](https://modrinth.com/mod/serversplus)                                     |
-|    Custom Splash Screen    | 1.17.1  | HUD       | No                                                             | [Yes](https://modrinth.com/mod/custom-splash-screen/)                           |
-|            Grid            | 1.17.1  | Utility   | No                                                             | [Yes](https://modrinth.com/mod/grid)                                            |
-|        NBT Tooltip         | 1.17.1  | HUD       | No                                                             | [Yes](https://modrinth.com/mod/nbttooltip)                                      |
-| Customizable Player Models | 1.17.1  | HUD       | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric) |
-|          Resclone          |  1.17   | Utility   | No                                                             | [Yes](https://modrinth.com/mod/resclone)                                        |
-|         SeedMapper         | 1.17.1  | Utility   | No                                                             | [Yes](https://modrinth.com/mod/seedmapper)                                      |
-|         ThatOrThis         |  1.17   | Utility   | No                                                             | [Yes](https://modrinth.com/mod/thatorthis)                                      |
-|     Simple Discord RPC     |  1.17   | Utility   | No                                                             | [Yes](https://modrinth.com/mod/simple-discord-rpc)                              |
-|      Visual Overhaul       |  1.17   | Game Feel | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul)             |
-|           Bobby            |  1.17   | Game Feel | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/bobby)                       |
-|         HUDTweaks          |  1.17   | HUD       | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/hudtweaks)                   |
-|         BetterPVP          |  1.17   | HUD       | [Yes](https://www.planetminecraft.com/mod/164-better-pvp-v10/) | [Yes](https://www.planetminecraft.com/mod/164-better-pvp-v10/)                  |
-|        Physics Mod         | 1.17.1  | Gameplay  | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/physics-mod)                 |
-|           Beenfo           | 1.17.1  | Gameplay  | No                                                             | [Yes](https://modrinth.com/mod/beenfo)                                          |
-|         WorldTime          | 1.17.1  | HUD       | No                                                             | [Yes](https://modrinth.com/mod/worldtime)                                       |
-|      Invisible Frames      |  1.17   | Game Feel | No                                                             | [Yes](https://modrinth.com/mod/invisframes)                                     |
-|        Iris Shaders        |  1.17   | Game Feel | No                                                             | [Yes](https://modrinth.com/mod/iris)                                            |
+|          Mod Name          | Version | Category  | Fabric                                                                          |
+| :------------------------: | :-----: | --------- | ------------------------------------------------------------------------------- |
+|        Servers Plus        | 1.16.5  | HUD       | [Yes](https://modrinth.com/mod/serversplus)                                     |
+|    Custom Splash Screen    | 1.17.1  | HUD       | [Yes](https://modrinth.com/mod/custom-splash-screen/)                           |
+|            Grid            | 1.17.1  | Utility   | [Yes](https://modrinth.com/mod/grid)                                            |
+|        NBT Tooltip         | 1.17.1  | HUD       | [Yes](https://modrinth.com/mod/nbttooltip)                                      |
+| Customizable Player Models | 1.17.1  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric) |
+|          Resclone          |  1.17   | Utility   | [Yes](https://modrinth.com/mod/resclone)                                        |
+|         SeedMapper         | 1.17.1  | Utility   | [Yes](https://modrinth.com/mod/seedmapper)                                      |
+|         ThatOrThis         |  1.17   | Utility   | [Yes](https://modrinth.com/mod/thatorthis)                                      |
+|     Simple Discord RPC     |  1.17   | Utility   | [Yes](https://modrinth.com/mod/simple-discord-rpc)                              |
+|      Visual Overhaul       |  1.17   | Game Feel | [Yes](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul)             |
+|           Bobby            |  1.17   | Game Feel | [Yes](https://www.curseforge.com/minecraft/mc-mods/bobby)                       |
+|         HUDTweaks          |  1.17   | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/hudtweaks)                   |
+|         BetterPVP          |  1.17   | HUD       | [Yes](https://www.planetminecraft.com/mod/164-better-pvp-v10/)                  |
+|        Physics Mod         | 1.17.1  | Gameplay  | [Yes](https://www.curseforge.com/minecraft/mc-mods/physics-mod)                 |
+|           Beenfo           | 1.17.1  | Gameplay  | [Yes](https://modrinth.com/mod/beenfo)                                          |
+|         WorldTime          | 1.17.1  | HUD       | [Yes](https://modrinth.com/mod/worldtime)                                       |
+|      Invisible Frames      |  1.17   | Game Feel | [Yes](https://modrinth.com/mod/invisframes)                                     |
+|        Iris Shaders        |  1.17   | Game Feel | [Yes](https://modrinth.com/mod/iris)                                            |
 
 **Unstable**
 
-|         Mod Name          | Version | Category | Forge | Fabric                                                    |
-| :-----------------------: | :-----: | -------- | ----- | --------------------------------------------------------- |
-| Enhanced Attack Indicator | 1.17.1  | HUD      | No    | [Yes](https://modrinth.com/mod/enhanced-attack-indicator) |
-
-https://www.planetminecraft.com/texture-pack/default-3d-2985741/
+|         Mod Name          | Version | Category | Fabric                                                    |
+| :-----------------------: | :-----: | -------- | --------------------------------------------------------- |
+| Enhanced Attack Indicator | 1.17.1  | HUD      | [Yes](https://modrinth.com/mod/enhanced-attack-indicator) |
 
 ## **Older**
 
-|       Mod Name        | Version | Category    | Forge                                                                        | Fabric                                                                                                                        |
-| :-------------------: | :-----: | ----------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-|      Replay Mod       | 1.16.5  | Utility     | No                                                                           | [Yes](https://www.replaymod.com/download/)                                                                                    |
-|  Picture In Picture   |  1.12   | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/picture-in-picture-pip)   | No                                                                                                                            |
-|   Inventory Sorter    | 1.16.1  | Utility     | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)                                                          |
-|      VanillaFix       | 1.16.5  | Utility     | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/vanillafix) [Extra](https://github.com/DimensionalDevelopment/VanillaFix/) |
-| Armor Thoughtness Bar | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)      | No                                                                                                                            |
-|        ReAuth         | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/reauth)                   | [Yes](https://www.curseforge.com/minecraft/mc-mods/reauth-fabric)                                                             |
-|      Controlling      | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/controlling)              | No                                                                                                                            |
-|     Sound Filters     | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/sound-filters)            | No                                                                                                                            |
-| Dynamic Surroundings  | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)     | No                                                                                                                            |
-|    Crafting Tweaks    | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)          | No                                                                                                                            |
-|   Inventory Tweaks    | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed) | No                                                                                                                            |
-|    Better Foilage     | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-foliage)           | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-foliage)                                                            |
-|    Chunk Animator     | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/chunk-animator)           | No                                                                                                                            |
-|      Auto Torch       | 1.16.5  | Utility     | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/auto-torch)                                                                |
-|       Nicephore       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/nicephore)                | [Yes](https://www.curseforge.com/minecraft/mc-mods/nicephore-fabric)                                                          |
-|   Helpful Hitboxes    | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/helpful-hitboxes-forge)   | [Yes](https://www.curseforge.com/minecraft/mc-mods/helpful-hitboxes-fabric)                                                   |
-|     Toast Control     | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/toast-control)            | No                                                                                                                            |
-|  Better Advancements  | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-advancements)      | No                                                                                                                            |
-|  Swing Through Grass  | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)        | No                                                                                                                            |
-|     Client Tweaks     | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)            | No                                                                                                                            |
-|     Friendly Fire     | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/friendly-fire)            | No                                                                                                                            |
-|     RandomPatches     | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)      | [Yes](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)                                                      |
-|     Recently Used     | 1.16.5  | Utility     | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/recently-used)                                                             |
-|       KleeSlabs       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)                | No                                                                                                                            |
-|      Smarter HUD      | 1.16.5  | Utility     | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/smarter-hud)                                                               |
-|    Whats That Slot    | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/whats-that-slot)          | No                                                                                                                            |
-|     Recently Used     | 1.16.5  | HUD         | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/recently-used/files/3087343)                                               |
-|        Findme         | 1.16.5  | Gameplay    | [Yes](https://www.curseforge.com/minecraft/mc-mods/findme)                   | No                                                                                                                            |
-|     Fabripresence     | 1.16.5  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/fabripresence)                                                                                 |
-|       Textbook        | 1.16.5  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/textbook)                                                                                      |
-|      Smooth Boot      | 1.16.5  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/smoothboot-fabric)                                                                             |
-|      MinimalMenu      | 1.16.5  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/minimalmenu)                                                                                   |
-|    Don't Drop It!     | 1.16.4  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/HcVOCzMh)                                                                                      |
-|     QuickReplant      | 1.16.5  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/quickreplant)                                                                                  |
-|   Better Eating Mod   | 1.16.5  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/better-eating)                                                                                 |
-|      Auto Torch       | 1.16.5  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/auto-torch/)                                                                                   |
-|       QuickCalc       | 1.16.5  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/quickcalc)                                                                                     |
-| BetterEnchantedBooks  | 1.16.5  | Game Feel   | No                                                                           | [Yes](https://modrinth.com/mod/better-enchanted-books)                                                                        |
-|   Head-down Display   | 1.16.4  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/hdd)                                                                                           |
-|     AdvancedChat      | 1.16.5  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/advancedchat)                                                                                  |
+|         Mod Name         | Version | Category    | Fabric                                                                                                                        |
+| :----------------------: | :-----: | ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
+|        Replay Mod        | 1.16.5  | Utility     | [Yes](https://www.replaymod.com/download/)                                                                                    |
+|     Inventory Sorter     | 1.16.1  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)                                                          |
+|        VanillaFix        | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/vanillafix) [Extra](https://github.com/DimensionalDevelopment/VanillaFix/) |
+|          ReAuth          | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/reauth-fabric)                                                             |
+|      Better Foilage      | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-foliage)                                                            |
+|        Auto Torch        | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/auto-torch)                                                                |
+|        Nicephore         | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/nicephore-fabric)                                                          |
+|     Helpful Hitboxes     | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/helpful-hitboxes-fabric)                                                   |
+|      RandomPatches       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)                                                      |
+|      Recently Used       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/recently-used)                                                             |
+|       Smarter HUD        | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/smarter-hud)                                                               |
+|      Recently Used       | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/recently-used/files/3087343)                                               |
+|      Fabripresence       | 1.16.5  | Utility     | [Yes](https://modrinth.com/mod/fabripresence)                                                                                 |
+|         Textbook         | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/textbook)                                                                                      |
+|       Smooth Boot        | 1.16.5  | Performance | [Yes](https://modrinth.com/mod/smoothboot-fabric)                                                                             |
+|       MinimalMenu        | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/minimalmenu)                                                                                   |
+|      Don't Drop It!      | 1.16.4  | Gameplay    | [Yes](https://modrinth.com/mod/HcVOCzMh)                                                                                      |
+|       QuickReplant       | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/quickreplant)                                                                                  |
+|    Better Eating Mod     | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/better-eating)                                                                                 |
+|        Auto Torch        | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/auto-torch/)                                                                                   |
+|        QuickCalc         | 1.16.5  | Utility     | [Yes](https://modrinth.com/mod/quickcalc)                                                                                     |
+|   BetterEnchantedBooks   | 1.16.5  | Game Feel   | [Yes](https://modrinth.com/mod/better-enchanted-books)                                                                        |
+|    Head-down Display     | 1.16.4  | HUD         | [Yes](https://modrinth.com/mod/hdd)                                                                                           |
+|       AdvancedChat       | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/advancedchat)                                                                                  |
+| Connected Block Textures | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures)                                                  |
+
+## **Looking for Fabric equivalent**
+
+|       Mod Name        | Version | Category  | Forge                                                                        |
+| :-------------------: | :-----: | --------- | ---------------------------------------------------------------------------- |
+|  Picture In Picture   |  1.12   | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/picture-in-picture-pip)   |
+| Armor Thoughtness Bar | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)      |
+|      Controlling      | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/controlling)              |
+|     Sound Filters     | 1.16.5  | Game Feel | [Yes](https://www.curseforge.com/minecraft/mc-mods/sound-filters)            |
+| Dynamic Surroundings  | 1.16.5  | Game Feel | [Yes](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)     |
+|    Crafting Tweaks    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)          |
+|   Inventory Tweaks    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed) |
+|     Toast Control     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/toast-control)            |
+|  Better Advancements  | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-advancements)      |
+|  Swing Through Grass  | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)        |
+|     Client Tweaks     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)            |
+|     Friendly Fire     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/friendly-fire)            |
+|    Chunk Animator     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/chunk-animator)           |
+|       KleeSlabs       | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)                |
+|    Whats That Slot    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/whats-that-slot)          |
+|        Findme         | 1.16.5  | Gameplay  | [Yes](https://www.curseforge.com/minecraft/mc-mods/findme)                   |
