@@ -1,135 +1,172 @@
-# **Minecraft Mods**
+# **Minecraft Mods - 1.7.1**
 
-## **1.17.1**
+## **Game Feel**
 
-|         Mod Name          | Version | Category    | Forge                                                                        | Fabric                                                                            |
-| :-----------------------: | :-----: | ----------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-|       Custom Stars        |  1.17   | Game Look   | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-stars)                  |
-|         Low Fire          | 1.17.1  | Game Look   | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/low-fire)                      |
-|    Adaptive Brightness    | 1.17.1  | Game Look   | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/adaptive-brightness)           |
-|        Better Beds        | 1.17.1  | Game Look   | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-beds)                   |
-|      Visual Overhaul      |  1.17   | Game Look   | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul)               |
-|           Bobby           |  1.17   | Game Look   | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/bobby)                         |
-|      Falling leaves       | 1.17.1  | Game Look   | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)         |
-|        Chat heads         | 1.17.1  | HUD         | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/chat-heads)                    |
-|      Continue Button      | 1.17.1  | HUD         | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/continue-button)               |
-|     Better Mount HUD      | 1.17.1  | HUD         | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud)              |
-|   Searchable Containers   | 1.17.1  | HUD         | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/searchable-containers)         |
-|         HUDTweaks         |  1.17   | HUD         | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/hudtweaks)                     |
-|       OP Items Tab        | 1.17.1  | HUD         | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/op-items-tab)                  |
-|      Inventory HUD+       | 1.17.1  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)      | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)           |
-| Enchantment Descriptions  | 1.17.1  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | [Yes](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)      |
-|   Roughly Enough Items    | 1.17.1  | HUD         | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)          |
-|    Shulker Box Tooltip    | 1.17.1  | HUD         | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)             |
-|         BetterPVP         |  1.17   | HUD         | [Yes](https://www.planetminecraft.com/mod/164-better-pvp-v10/)               | [Yes](https://www.planetminecraft.com/mod/164-better-pvp-v10/)                    |
-|      Xaero's Minimap      | 1.17.1  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)           | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)                |
-|     Xaero's World Map     | 1.17.1  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)         | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)              |
-|   Advancements Enlarger   | 1.17.1  | HUD         | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)         |
-|        Damage Tilt        | 1.17.1  | Gameplay    | [Yes](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)              | [Yes](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)                   |
-|       Piston Order        | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/pistorder)                     |
-|         Sign Copy         | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/signcopy)                      |
-|        StepUp Next        | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/stepupnext)                    |
-|  Monsters In The Closet   | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet)        |
-|      Boat Item View       | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/boat-item-view)                |
-|        Physics Mod        | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/physics-mod)                   |
-|      Sword Blocking       | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/sword-blocking)                |
-|        AutoSwitch         | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch)             |
-|         AutoFish          | 1.17.1  | Gameplay    | [Yes](https://www.curseforge.com/minecraft/mc-mods/autofish)                 | [Yes](https://www.curseforge.com/minecraft/mc-mods/autofish)                      |
-|   Precise Block Placing   | 1.17.1  | Gameplay    | [Yes](https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing)      | [Yes](https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing)           |
-|      Sipler Harvest       |  1.17   | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/simplerharvest)                |
-|     Auto Third Person     | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/auto-third-person)             |
-|      Entity Culling       | 1.17.1  | Performance | [Yes](https://www.curseforge.com/minecraft/mc-mods/entityculling)            | [Yes](https://www.curseforge.com/minecraft/mc-mods/entityculling)                 |
-|        Litematica         | 1.17.1  | Utility     | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/litematica)                    |
-|          ModMenu          | 1.17.1  | Utility     | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/modmenu)                       |
-|         AppleSkin         | 1.17.1  | Utility     | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/appleskin)                     |
-|          LazyDFU          | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/lazydfu)                                           |
-|        DynamicFPS         | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/dynamic-fps)                                       |
-|       ClickThrough        | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/clickthrough)                                      |
-|       Mouse Wheelie       | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/mouse-wheelie)                                     |
-|         AntiGhost         | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/antighost)                                         |
-|   EasierVillagerTrading   | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/easiervillagertrading)                             |
-|       ClearDespawn        | 1.17.1  | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/cleardespawn)                                      |
-|      EasierCrafting       | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/easiercrafting)                                    |
-|          Beenfo           | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/beenfo)                                            |
-|        Fabricshot         | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/fabrishot)                                         |
-|         WorldTime         | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/worldtime)                                         |
-|    Horse Stats Vanilla    | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/horsestatsvanilla)                                 |
-|       FLightHelper        | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/flighthelper)                                      |
-|       FPS - Display       | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/fpsdisplay)                                        |
-|        Charmonium         | 1.17.1  | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/charmonium)                                        |
-|         DeathLog          | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/deathlog)                                          |
-|      Entity Distance      | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/entity-distance)                                   |
-|       NoRecipeBook        | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/norecipebook-fabric)                               |
-| No Nether Portal Overlay  | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/no-nether-portal-overlay)                          |
-|    Memory Usage Screen    | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/memory-usage-screen)                               |
-|        Name Lookup        | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/name-lookup)                                       |
-| Don't Clear Chat History  | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/dcch)                                              |
-|  Seamless Loading Screen  |  1.17   | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/seamless-loading-screen)                           |
-| Motschen's Better Leaves  |  1.17   | Game Look   | No                                                                           | [Yes](https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves) |
-|        Cull Leaves        | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/cull-leaves)                                       |
-|         AFKPeace          | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/afkpeace)                                          |
-|       Extra Sounds        | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/extrasounds)                                       |
-|         PetOwner          |  1.17   | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/petowner)                                          |
-|     NotEnoughCrashes      | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/notenoughcrashes)                                  |
-|         No Strip          | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/no-strip)                                          |
-|        StatsSearch        |  1.17   | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/statssearch)                                       |
-|    Better Third Person    | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/better-third-person)                               |
-|          InvMove          | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/invmove-fabric)                                    |
-|    Simple Discord RPC     |  1.17   | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/simple-discord-rpc)                                |
-|     Invisible Frames      |  1.17   | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/invisframes)                                       |
-|   Quick Connect Button    | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/quickconnectbutton)                                |
-|   Critical Orientation    | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/orientation)                                       |
-| Emma's Simple Elytra View | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/esev)                                              |
-|    Presence Footsteps     |  1.17   | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/presence-footsteps)                                |
-| Enhanced Attack Indicator | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/enhanced-attack-indicator)                         |
-|           Slyde           |  1.17   | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/slyde)                                             |
-|       Loading Timer       | 1.17.1  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/loading-timer)                                     |
-|  Flour's Various Tweaks   | 1.17.1  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/fvt)                                               |
-|       Iris Shaders        |  1.17   | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/iris)                                              |
-|    LambdaDynamicLights    | 1.17.1  | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/lambdynamiclights/)                                |
-|         Starlight         | 1.17.1  | Performance | No                                                                           | [Yes](https://github.com/Tuinity/Starlight)                                       |
-|         Hydrogen          | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/hydrogen/)                                         |
-|          Lithium          | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/lithium)                                           |
-|          Krypton          | 1.17.1  | Performance | No                                                                           | [Yes](https://modrinth.com/mod/krypton)                                           |
-|           NoFog           | 1.17.1  | Game Look   | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/nofog)                         |
-|        Clear Skies        |  1.17   | Game Look   | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/clear-skies)                   |
-|           Blur            | 1.17.1  | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/blur-fabric)                                       |
-|         Ok Zoomer         | 1.17.1  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/ok-zoomer)                                         |
+|         Mod Name         | Version | Category  | Forge                                                           | Fabric                                                                            |
+| :----------------------: | :-----: | --------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+|   Adaptive Brightness    | 1.17.1  | Game Feel | No                                                              | [Yes](https://www.curseforge.com/minecraft/mc-mods/adaptive-brightness)           |
+|       Better Beds        | 1.17.1  | Game Feel | No                                                              | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-beds)                   |
+|        Charmonium        | 1.17.1  | Game Feel | No                                                              | [Yes](https://modrinth.com/mod/charmonium)                                        |
+|       ClearDespawn       | 1.17.1  | Game Feel | No                                                              | [Yes](https://modrinth.com/mod/cleardespawn)                                      |
+|       Clear Skies        |  1.17   | Game Feel | No                                                              | [Yes](https://www.curseforge.com/minecraft/mc-mods/clear-skies)                   |
+|   ConnectedTexturesMod   |  1.17   | Game Feel | No                                                              | [Yes](https://www.curseforge.com/minecraft/mc-mods/ctm)                           |
+|       Custom Stars       |  1.17   | Game Feel | No                                                              | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-stars)                  |
+|       Damage Tilt        | 1.17.1  | Gameplay  | [Yes](https://www.curseforge.com/minecraft/mc-mods/damage-tilt) | [Yes](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)                   |
+|       Extra Sounds       | 1.17.1  | HUD       | No                                                              | [Yes](https://modrinth.com/mod/extrasounds)                                       |
+|      Falling leaves      | 1.17.1  | Game Feel | No                                                              | [Yes](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)         |
+|   Horse Stats Vanilla    | 1.17.1  | HUD       | No                                                              | [Yes](https://modrinth.com/mod/horsestatsvanilla)                                 |
+|   LambdaDynamicLights    | 1.17.1  | Game Feel | No                                                              | [Yes](https://modrinth.com/mod/lambdynamiclights/)                                |
+|         Low Fire         | 1.17.1  | Game Feel | No                                                              | [Yes](https://www.curseforge.com/minecraft/mc-mods/low-fire)                      |
+|      Sword Blocking      | 1.17.1  | Gameplay  | No                                                              | [Yes](https://www.curseforge.com/minecraft/mc-mods/sword-blocking)                |
+| Motschen's Better Leaves |  1.17   | Game Feel | No                                                              | [Yes](https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves) |
+
+## **HUD**
+
+|         Mod Name          | Version | Category | Forge                                                                        | Fabric                                                                       |
+| :-----------------------: | :-----: | -------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+|   Advancements Enlarger   | 1.17.1  | HUD      | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)    |
+|         AppleSkin         | 1.17.1  | HUD      | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/appleskin)                |
+|     Better Mount HUD      | 1.17.1  | HUD      | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud)         |
+|           Blur            | 1.17.1  | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/blur-fabric)                                  |
+|        Chat heads         | 1.17.1  | HUD      | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/chat-heads)               |
+|      Continue Button      | 1.17.1  | HUD      | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/continue-button)          |
+|         DeathLog          | 1.17.1  | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/deathlog)                                     |
+|      EasierCrafting       | 1.17.1  | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/easiercrafting)                               |
+|   EasierVillagerTrading   | 1.17.1  | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/easiervillagertrading)                        |
+| Enchantment Descriptions  | 1.17.1  | HUD      | [Yes](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | [Yes](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) |
+| Emma's Simple Elytra View | 1.17.1  | Gameplay | No                                                                           | [Yes](https://modrinth.com/mod/esev)                                         |
+|       FPS - Display       | 1.17.1  | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/fpsdisplay)                                   |
+|      Inventory HUD+       | 1.17.1  | HUD      | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)      | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)      |
+|       Loading Timer       | 1.17.1  | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/loading-timer)                                |
+|    Memory Usage Screen    | 1.17.1  | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/memory-usage-screen)                          |
+|          ModMenu          | 1.17.1  | Utility  | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/modmenu)                  |
+|       Mouse Wheelie       | 1.17.1  | Utility  | No                                                                           | [Yes](https://modrinth.com/mod/mouse-wheelie)                                |
+| No Nether Portal Overlay  | 1.17.1  | Gameplay | No                                                                           | [Yes](https://modrinth.com/mod/no-nether-portal-overlay)                     |
+|       NoRecipeBook        | 1.17.1  | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/norecipebook-fabric)                          |
+|       OP Items Tab        | 1.17.1  | HUD      | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/op-items-tab)             |
+|   Quick Connect Button    | 1.17.1  | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/quickconnectbutton)                           |
+|   Roughly Enough Items    | 1.17.1  | HUD      | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)     |
+|   Searchable Containers   | 1.17.1  | HUD      | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/searchable-containers)    |
+|    Shulker Box Tooltip    | 1.17.1  | HUD      | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)        |
+|        StatsSearch        |  1.17   | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/statssearch)                                  |
+|      Xaero's Minimap      | 1.17.1  | HUD      | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)           | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)           |
+|     Xaero's World Map     | 1.17.1  | HUD      | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)         | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)         |
+|           Slyde           |  1.17   | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/slyde)                                        |
+
+## **Gameplay**
+
+|        Mod Name        | Version | Category | Forge                                                        | Fabric                                                                     |
+| :--------------------: | :-----: | -------- | ------------------------------------------------------------ | -------------------------------------------------------------------------- |
+|        AFKPeace        | 1.17.1  | Gameplay | No                                                           | [Yes](https://modrinth.com/mod/afkpeace)                                   |
+|   Auto Third Person    | 1.17.1  | Gameplay | No                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/auto-third-person)      |
+|        AutoFish        | 1.17.1  | Gameplay | [Yes](https://www.curseforge.com/minecraft/mc-mods/autofish) | [Yes](https://www.curseforge.com/minecraft/mc-mods/autofish)               |
+|       AutoSwitch       | 1.17.1  | Gameplay | No                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch)      |
+|  Better Third Person   | 1.17.1  | Gameplay | No                                                           | [Yes](https://modrinth.com/mod/better-third-person)                        |
+|     Boat Item View     | 1.17.1  | Gameplay | No                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/boat-item-view)         |
+|      ClickThrough      | 1.17.1  | Gameplay | No                                                           | [Yes](https://modrinth.com/mod/clickthrough)                               |
+|  Critical Orientation  | 1.17.1  | Gameplay | No                                                           | [Yes](https://modrinth.com/mod/orientation)                                |
+|      FLightHelper      | 1.17.1  | Gameplay | No                                                           | [Yes](https://modrinth.com/mod/flighthelper)                               |
+|        InvMove         | 1.17.1  | Gameplay | No                                                           | [Yes](https://modrinth.com/mod/invmove-fabric)                             |
+| Monsters In The Closet | 1.17.1  | Gameplay | No                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet) |
+|        No Strip        | 1.17.1  | Gameplay | No                                                           | [Yes](https://modrinth.com/mod/no-strip)                                   |
+|       Ok Zoomer        | 1.17.1  | Gameplay | No                                                           | [Yes](https://modrinth.com/mod/ok-zoomer)                                  |
+|      StepUp Next       | 1.17.1  | Gameplay | No                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/stepupnext)             |
+
+## **Utility**
+
+|         Mod Name         | Version | Category | Forge                                                                   | Fabric                                                                  |
+| :----------------------: | :-----: | -------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+|        AntiGhost         | 1.17.1  | Utility  | No                                                                      | [Yes](https://modrinth.com/mod/antighost)                               |
+| Don't Clear Chat History | 1.17.1  | HUD      | No                                                                      | [Yes](https://modrinth.com/mod/dcch)                                    |
+|        Fabricshot        | 1.17.1  | Utility  | No                                                                      | [Yes](https://modrinth.com/mod/fabrishot)                               |
+|  Flour's Various Tweaks  | 1.17.1  | Utility  | No                                                                      | [Yes](https://modrinth.com/mod/fvt)                                     |
+|        Litematica        | 1.17.1  | Utility  | No                                                                      | [Yes](https://www.curseforge.com/minecraft/mc-mods/litematica)          |
+|       Name Lookup        | 1.17.1  | Utility  | No                                                                      | [Yes](https://modrinth.com/mod/name-lookup)                             |
+|     NotEnoughCrashes     | 1.17.1  | Utility  | No                                                                      | [Yes](https://modrinth.com/mod/notenoughcrashes)                        |
+|         PetOwner         |  1.17   | Utility  | No                                                                      | [Yes](https://modrinth.com/mod/petowner)                                |
+|       Piston Order       | 1.17.1  | Gameplay | No                                                                      | [Yes](https://www.curseforge.com/minecraft/mc-mods/pistorder)           |
+|  Precise Block Placing   | 1.17.1  | Gameplay | [Yes](https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing) | [Yes](https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing) |
+|        Sign Copy         | 1.17.1  | Gameplay | No                                                                      | [Yes](https://www.curseforge.com/minecraft/mc-mods/signcopy)            |
+|        Tweakeroo         | 1.17.1  | Utility  | No                                                                      | [Yes](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)           |
+|        WorldEdit         | 1.17.1  | Utility  | No                                                                      | [Yes](https://www.curseforge.com/minecraft/mc-mods/worldedit)           |
+
+## **Performance**
+
+|    Mod Name     | Version | Category    | Forge                                                             | Fabric                                                            |
+| :-------------: | :-----: | ----------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+|   Cull Leaves   | 1.17.1  | Performance | No                                                                | [Yes](https://modrinth.com/mod/cull-leaves)                       |
+|   DashLoader    | 1.17.1  | Performance | No                                                                | [Yes](https://modrinth.com/mod/dashloader)                        |
+|   DynamicFPS    | 1.17.1  | Performance | No                                                                | [Yes](https://modrinth.com/mod/dynamic-fps)                       |
+| Entity Culling  | 1.17.1  | Performance | [Yes](https://www.curseforge.com/minecraft/mc-mods/entityculling) | [Yes](https://www.curseforge.com/minecraft/mc-mods/entityculling) |
+| Entity Distance | 1.17.1  | Performance | No                                                                | [Yes](https://modrinth.com/mod/entity-distance)                   |
+|     Indium      | 1.17.1  | Performance | No                                                                | [Yes](https://modrinth.com/mod/indium)                            |
+|     Krypton     | 1.17.1  | Performance | No                                                                | [Yes](https://modrinth.com/mod/krypton)                           |
+|     LazyDFU     | 1.17.1  | Performance | No                                                                | [Yes](https://modrinth.com/mod/lazydfu)                           |
+|     Lithium     | 1.17.1  | Performance | No                                                                | [Yes](https://modrinth.com/mod/lithium)                           |
+|     Sodium      | 1.17.1  | Performance | No                                                                | [Yes](https://modrinth.com/mod/sodium)                            |
+|    Starlight    | 1.17.1  | Performance | No                                                                | [Yes](https://github.com/Tuinity/Starlight)                       |
+
+## **.**
+
+| Seamless Loading Screen | 1.17 | Game Feel | No | [Yes](https://modrinth.com/mod/seamless-loading-screen) |
+| Presence Footsteps | 1.17 | Game Feel | No | [Yes](https://modrinth.com/mod/presence-footsteps) |
+
+## **.**
+
+## **.**
 
 **Dependencies**
+
 [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/)
+
 [Malilib](https://www.curseforge.com/minecraft/mc-mods/malilib)
+
 [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
+
 [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+
 [AutoConfig](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api)
 
 **Not compatible with Iris**
 
 |  Mod Name   | Version | Category  | Forge | Fabric                                            |
 | :---------: | :-----: | --------- | ----- | ------------------------------------------------- |
-| Drip Sounds | 1.17.1  | Game Look | No    | [Yes](https://modrinth.com/mod/dripsounds-fabric) |
+| Drip Sounds | 1.17.1  | Game Feel | No    | [Yes](https://modrinth.com/mod/dripsounds-fabric) |
 
 **Not compatible with DashLoader**
 
 |         Mod Name         | Version | Category    | Forge | Fabric                                                                       |
 | :----------------------: | :-----: | ----------- | ----- | ---------------------------------------------------------------------------- |
 | Enchanced Block Entities | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/ebe)                                          |
-|    LambdaBetterGrass     | 1.17.1  | Game Look   | No    | [Yes](https://modrinth.com/mod/lambdabettergrass)                            |
-| Connected Block Textures | 1.16.5  | Game Look   | No    | [Yes](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures) |
+|    LambdaBetterGrass     | 1.17.1  | Game Feel   | No    | [Yes](https://modrinth.com/mod/lambdabettergrass)                            |
+| Connected Block Textures | 1.16.5  | Game Feel   | No    | [Yes](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures) |
 
 **Not used**
 
-|          Mod Name          | Version | Category    | Forge | Fabric                                                                          |
-| :------------------------: | :-----: | ----------- | ----- | ------------------------------------------------------------------------------- |
-|        Servers Plus        | 1.16.5  | HUD         | No    | [Yes](https://modrinth.com/mod/serversplus)                                     |
-|    Custom Splash Screen    | 1.17.1  | HUD         | No    | [Yes](https://modrinth.com/mod/custom-splash-screen/)                           |
-|            Grid            | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/grid)                                            |
-|        NBT Tooltip         | 1.17.1  | HUD         | No    | [Yes](https://modrinth.com/mod/nbttooltip)                                      |
-| Customizable Player Models | 1.17.1  | HUD         | No    | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric) |
-|          Resclone          |  1.17   | Utility     | No    | [Yes](https://modrinth.com/mod/resclone)                                        |
-|         DashLoader         | 1.17.1  | Performance | No    | [Yes](https://modrinth.com/mod/dashloader)                                      |
-|         SeedMapper         | 1.17.1  | Utility     | No    | [Yes](https://modrinth.com/mod/seedmapper)                                      |
-|         ThatOrThis         |  1.17   | Utility     | No    | [Yes](https://modrinth.com/mod/thatorthis)                                      |
+|          Mod Name          | Version | Category    | Forge                                                          | Fabric                                                                          |
+| :------------------------: | :-----: | ----------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+|        Servers Plus        | 1.16.5  | HUD         | No                                                             | [Yes](https://modrinth.com/mod/serversplus)                                     |
+|    Custom Splash Screen    | 1.17.1  | HUD         | No                                                             | [Yes](https://modrinth.com/mod/custom-splash-screen/)                           |
+|            Grid            | 1.17.1  | Utility     | No                                                             | [Yes](https://modrinth.com/mod/grid)                                            |
+|        NBT Tooltip         | 1.17.1  | HUD         | No                                                             | [Yes](https://modrinth.com/mod/nbttooltip)                                      |
+| Customizable Player Models | 1.17.1  | HUD         | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric) |
+|          Resclone          |  1.17   | Utility     | No                                                             | [Yes](https://modrinth.com/mod/resclone)                                        |
+|         SeedMapper         | 1.17.1  | Utility     | No                                                             | [Yes](https://modrinth.com/mod/seedmapper)                                      |
+|         ThatOrThis         |  1.17   | Utility     | No                                                             | [Yes](https://modrinth.com/mod/thatorthis)                                      |
+|          Hydrogen          | 1.17.1  | Performance | No                                                             | [Yes](https://modrinth.com/mod/hydrogen/)                                       |
+|     Simple Discord RPC     |  1.17   | Utility     | No                                                             | [Yes](https://modrinth.com/mod/simple-discord-rpc)                              |
+|      Visual Overhaul       |  1.17   | Game Feel   | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul)             |
+|           Bobby            |  1.17   | Game Feel   | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/bobby)                       |
+|         HUDTweaks          |  1.17   | HUD         | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/hudtweaks)                   |
+|         BetterPVP          |  1.17   | HUD         | [Yes](https://www.planetminecraft.com/mod/164-better-pvp-v10/) | [Yes](https://www.planetminecraft.com/mod/164-better-pvp-v10/)                  |
+|        Physics Mod         | 1.17.1  | Gameplay    | No                                                             | [Yes](https://www.curseforge.com/minecraft/mc-mods/physics-mod)                 |
+|           Beenfo           | 1.17.1  | Gameplay    | No                                                             | [Yes](https://modrinth.com/mod/beenfo)                                          |
+|         WorldTime          | 1.17.1  | HUD         | No                                                             | [Yes](https://modrinth.com/mod/worldtime)                                       |
+|      Invisible Frames      |  1.17   | Game Feel   | No                                                             | [Yes](https://modrinth.com/mod/invisframes)                                     |
+|        Iris Shaders        |  1.17   | Game Feel   | No                                                             | [Yes](https://modrinth.com/mod/iris)                                            |
+
+**Unstable**
+| Enhanced Attack Indicator | 1.17.1 | HUD | No | [Yes](https://modrinth.com/mod/enhanced-attack-indicator) |
 
 https://www.planetminecraft.com/texture-pack/default-3d-2985741/
 
@@ -144,8 +181,8 @@ https://www.planetminecraft.com/texture-pack/default-3d-2985741/
 | Armor Thoughtness Bar | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)      | No                                                                                                                            |
 |        ReAuth         | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/reauth)                   | [Yes](https://www.curseforge.com/minecraft/mc-mods/reauth-fabric)                                                             |
 |      Controlling      | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/controlling)              | No                                                                                                                            |
-|     Sound Filters     | 1.16.5  | Game Look   | [Yes](https://www.curseforge.com/minecraft/mc-mods/sound-filters)            | No                                                                                                                            |
-| Dynamic Surroundings  | 1.16.5  | Game Look   | [Yes](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)     | No                                                                                                                            |
+|     Sound Filters     | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/sound-filters)            | No                                                                                                                            |
+| Dynamic Surroundings  | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)     | No                                                                                                                            |
 |    Crafting Tweaks    | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)          | No                                                                                                                            |
 |   Inventory Tweaks    | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed) | No                                                                                                                            |
 |    Better Foilage     | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-foliage)           | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-foliage)                                                            |
@@ -174,6 +211,6 @@ https://www.planetminecraft.com/texture-pack/default-3d-2985741/
 |   Better Eating Mod   | 1.16.5  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/better-eating)                                                                                 |
 |      Auto Torch       | 1.16.5  | Gameplay    | No                                                                           | [Yes](https://modrinth.com/mod/auto-torch/)                                                                                   |
 |       QuickCalc       | 1.16.5  | Utility     | No                                                                           | [Yes](https://modrinth.com/mod/quickcalc)                                                                                     |
-| BetterEnchantedBooks  | 1.16.5  | Game Look   | No                                                                           | [Yes](https://modrinth.com/mod/better-enchanted-books)                                                                        |
+| BetterEnchantedBooks  | 1.16.5  | Game Feel   | No                                                                           | [Yes](https://modrinth.com/mod/better-enchanted-books)                                                                        |
 |   Head-down Display   | 1.16.4  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/hdd)                                                                                           |
 |     AdvancedChat      | 1.16.5  | HUD         | No                                                                           | [Yes](https://modrinth.com/mod/advancedchat)                                                                                  |
