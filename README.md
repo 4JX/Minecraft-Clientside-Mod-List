@@ -2,109 +2,104 @@
 
 ## **Game Feel**
 
-|         Mod Name         | Fabric                                                                            |
-| :----------------------: | --------------------------------------------------------------------------------- |
-|   Adaptive Brightness    | [Yes](https://www.curseforge.com/minecraft/mc-mods/adaptive-brightness)           |
-|       Better Beds        | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-beds)                   |
-|        Charmonium        | [Yes](https://modrinth.com/mod/charmonium)                                        |
-|       ClearDespawn       | [Yes](https://modrinth.com/mod/cleardespawn)                                      |
-|       Clear Skies        | [Yes](https://www.curseforge.com/minecraft/mc-mods/clear-skies)                   |
-|   ConnectedTexturesMod   | [Yes](https://www.curseforge.com/minecraft/mc-mods/ctm)                           |
-|       Custom Stars       | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-stars)                  |
-|       Damage Tilt        | [Yes](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)                   |
-|       Extra Sounds       | [Yes](https://modrinth.com/mod/extrasounds)                                       |
-|      Falling leaves      | [Yes](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)         |
-|   LambdaDynamicLights    | [Yes](https://modrinth.com/mod/lambdynamiclights/)                                |
-|         Low Fire         | [Yes](https://www.curseforge.com/minecraft/mc-mods/low-fire)                      |
-|      Sword Blocking      | [Yes](https://www.curseforge.com/minecraft/mc-mods/sword-blocking)                |
-| Motschen's Better Leaves | [Yes](https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves) |
+[**Adaptive Brightness**](https://www.curseforge.com/minecraft/mc-mods/adaptive-brightness)
+
+```
+A short description
+```
+
+- [**Better Beds**](https://www.curseforge.com/minecraft/mc-mods/better-beds)
+- [**Charmonium**](https://modrinth.com/mod/charmonium)
+- [**ClearDespawn**](https://modrinth.com/mod/cleardespawn)
+- [**Clear Skies**](https://www.curseforge.com/minecraft/mc-mods/clear-skies)
+- [**ConnectedTexturesMod**](https://www.curseforge.com/minecraft/mc-mods/ctm)
+- [**Custom Stars**](https://www.curseforge.com/minecraft/mc-mods/custom-stars)
+- [**Damage Tilt**](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)
+- [**Extra Sounds**](https://modrinth.com/mod/extrasounds)
+- [**Falling leaves**](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)
+- [**LambdaDynamicLights**](https://modrinth.com/mod/lambdynamiclights/)
+- [**Low Fire**](https://www.curseforge.com/minecraft/mc-mods/low-fire)
+- [**Sword Blocking**](https://www.curseforge.com/minecraft/mc-mods/sword-blocking)
+- [**Motschen's Better Leaves**](https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves)
 
 ## **HUD**
 
-|         Mod Name          | Fabric                                                                       |
-| :-----------------------: | ---------------------------------------------------------------------------- |
-|   Advancements Enlarger   | [Yes](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)    |
-|         AppleSkin         | [Yes](https://www.curseforge.com/minecraft/mc-mods/appleskin)                |
-|     Better Mount HUD      | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud)         |
-|           Blur            | [Yes](https://modrinth.com/mod/blur-fabric)                                  |
-|        Chat heads         | [Yes](https://www.curseforge.com/minecraft/mc-mods/chat-heads)               |
-|      Continue Button      | [Yes](https://www.curseforge.com/minecraft/mc-mods/continue-button)          |
-|         DeathLog          | [Yes](https://modrinth.com/mod/deathlog)                                     |
-|      EasierCrafting       | [Yes](https://modrinth.com/mod/easiercrafting)                               |
-|   EasierVillagerTrading   | [Yes](https://modrinth.com/mod/easiervillagertrading)                        |
-| Enchantment Descriptions  | [Yes](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) |
-| Emma's Simple Elytra View | [Yes](https://modrinth.com/mod/esev)                                         |
-|       FPS - Display       | [Yes](https://modrinth.com/mod/fpsdisplay)                                   |
-|      Inventory HUD+       | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)      |
-|       Loading Timer       | [Yes](https://modrinth.com/mod/loading-timer)                                |
-|    Memory Usage Screen    | [Yes](https://modrinth.com/mod/memory-usage-screen)                          |
-|          ModMenu          | [Yes](https://www.curseforge.com/minecraft/mc-mods/modmenu)                  |
-| No Nether Portal Overlay  | [Yes](https://modrinth.com/mod/no-nether-portal-overlay)                     |
-|       NoRecipeBook        | [Yes](https://modrinth.com/mod/norecipebook-fabric)                          |
-|       OP Items Tab        | [Yes](https://www.curseforge.com/minecraft/mc-mods/op-items-tab)             |
-|   Quick Connect Button    | [Yes](https://modrinth.com/mod/quickconnectbutton)                           |
-|   Roughly Enough Items    | [Yes](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)     |
-|   Searchable Containers   | [Yes](https://www.curseforge.com/minecraft/mc-mods/searchable-containers)    |
-|    Shulker Box Tooltip    | [Yes](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)        |
-|        StatsSearch        | [Yes](https://modrinth.com/mod/statssearch)                                  |
-|      Xaero's Minimap      | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)           |
-|     Xaero's World Map     | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)         |
-|           Slyde           | [Yes](https://modrinth.com/mod/slyde)                                        |
-|    Horse Stats Vanilla    | [Yes](https://modrinth.com/mod/horsestatsvanilla)                            |
+- [**Advancements Enlarger**](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
+- [**AppleSkin**](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [**Better Mount HUD**](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud)
+- [**Blur**](https://modrinth.com/mod/blur-fabric)
+- [**Chat heads**](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
+- [**Continue Button**](https://www.curseforge.com/minecraft/mc-mods/continue-button)
+- [**DeathLog**](https://modrinth.com/mod/deathlog)
+- [**EasierCrafting**](https://modrinth.com/mod/easiercrafting)
+- [**EasierVillagerTrading**](https://modrinth.com/mod/easiervillagertrading)
+- [**Enchantment Descriptions**](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
+- [**Emma's Simple Elytra View**](https://modrinth.com/mod/esev)
+- [**FPS - Display**](https://modrinth.com/mod/fpsdisplay)
+- [**Inventory HUD+**](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
+- [**Loading Timer**](https://modrinth.com/mod/loading-timer)
+- [**Memory Usage Screen**](https://modrinth.com/mod/memory-usage-screen)
+- [**ModMenu**](https://www.curseforge.com/minecraft/mc-mods/modmenu)
+- [**No Nether Portal Overlay**](https://modrinth.com/mod/no-nether-portal-overlay)
+- [**NoRecipeBook**](https://modrinth.com/mod/norecipebook-fabric)
+- [**OP Items Tab**](https://www.curseforge.com/minecraft/mc-mods/op-items-tab)
+- [**Quick Connect Button**](https://modrinth.com/mod/quickconnectbutton)
+- [**Roughly Enough Items**](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+- [**Searchable Containers**](https://www.curseforge.com/minecraft/mc-mods/searchable-containers)
+- [**Shulker Box Tooltip**](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
+- [**StatsSearch**](https://modrinth.com/mod/statssearch)
+- [**Xaero's Minimap**](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [**Xaero's World Map**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- [**Slyde**](https://modrinth.com/mod/slyde)
+- [**Horse Stats Vanilla**](https://modrinth.com/mod/horsestatsvanilla)
 
 ## **Gameplay**
 
-|        Mod Name        | Fabric                                                                     |
-| :--------------------: | -------------------------------------------------------------------------- |
-|        AFKPeace        | [Yes](https://modrinth.com/mod/afkpeace)                                   |
-|   Auto Third Person    | [Yes](https://www.curseforge.com/minecraft/mc-mods/auto-third-person)      |
-|        AutoFish        | [Yes](https://www.curseforge.com/minecraft/mc-mods/autofish)               |
-|       AutoSwitch       | [Yes](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch)      |
-|  Better Third Person   | [Yes](https://modrinth.com/mod/better-third-person)                        |
-|     Boat Item View     | [Yes](https://www.curseforge.com/minecraft/mc-mods/boat-item-view)         |
-|      ClickThrough      | [Yes](https://modrinth.com/mod/clickthrough)                               |
-|  Critical Orientation  | [Yes](https://modrinth.com/mod/orientation)                                |
-|      FLightHelper      | [Yes](https://modrinth.com/mod/flighthelper)                               |
-|        InvMove         | [Yes](https://modrinth.com/mod/invmove-fabric)                             |
-| Monsters In The Closet | [Yes](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet) |
-|        No Strip        | [Yes](https://modrinth.com/mod/no-strip)                                   |
-|       Ok Zoomer        | [Yes](https://modrinth.com/mod/ok-zoomer)                                  |
-|      StepUp Next       | [Yes](https://www.curseforge.com/minecraft/mc-mods/stepupnext)             |
+- [**AFKPeace**](https://modrinth.com/mod/afkpeace)
+- [**Auto Third Person**](https://www.curseforge.com/minecraft/mc-mods/auto-third-person)
+- [**AutoFish**](https://www.curseforge.com/minecraft/mc-mods/autofish)
+- [**AutoSwitch**](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch)
+- [**Better Third Person**](https://modrinth.com/mod/better-third-person)
+- [**Boat Item View**](https://www.curseforge.com/minecraft/mc-mods/boat-item-view)
+- [**ClickThrough**](https://modrinth.com/mod/clickthrough)
+- [**Critical Orientation**](https://modrinth.com/mod/orientation)
+- [**FLightHelper**](https://modrinth.com/mod/flighthelper)
+- [**InvMove**](https://modrinth.com/mod/invmove-fabric)
+- [**Monsters In The Closet**](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet)
+- [**No Strip**](https://modrinth.com/mod/no-strip)
+- [**Ok Zoomer**](https://modrinth.com/mod/ok-zoomer)
+- [**StepUp Next**](https://www.curseforge.com/minecraft/mc-mods/stepupnext)
 
 ## **Utility**
 
-|         Mod Name         | Fabric                                                                  |
-| :----------------------: | ----------------------------------------------------------------------- |
-|        AntiGhost         | [Yes](https://modrinth.com/mod/antighost)                               |
-| Don't Clear Chat History | [Yes](https://modrinth.com/mod/dcch)                                    |
-|        Fabricshot        | [Yes](https://modrinth.com/mod/fabrishot)                               |
-|  Flour's Various Tweaks  | [Yes](https://modrinth.com/mod/fvt)                                     |
-|        Litematica        | [Yes](https://www.curseforge.com/minecraft/mc-mods/litematica)          |
-|       Name Lookup        | [Yes](https://modrinth.com/mod/name-lookup)                             |
-|     NotEnoughCrashes     | [Yes](https://modrinth.com/mod/notenoughcrashes)                        |
-|         PetOwner         | [Yes](https://modrinth.com/mod/petowner)                                |
-|       Piston Order       | [Yes](https://www.curseforge.com/minecraft/mc-mods/pistorder)           |
-|  Precise Block Placing   | [Yes](https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing) |
-|        Sign Copy         | [Yes](https://www.curseforge.com/minecraft/mc-mods/signcopy)            |
-|        Tweakeroo         | [Yes](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)           |
-|        WorldEdit         | [Yes](https://www.curseforge.com/minecraft/mc-mods/worldedit)           |
-|      Mouse Wheelie       | [Yes](https://modrinth.com/mod/mouse-wheelie)                           |
+- [**AntiGhost**](https://modrinth.com/mod/antighost)
+- [**Don't Clear Chat History**](https://modrinth.com/mod/dcch)
+- [**Fabricshot**](https://modrinth.com/mod/fabrishot)
+- [**Flour's Various Tweaks**](https://modrinth.com/mod/fvt)
+- [**Litematica**](https://www.curseforge.com/minecraft/mc-mods/litematica)
+- [**Name Lookup**](https://modrinth.com/mod/name-lookup)
+- [**NotEnoughCrashes**](https://modrinth.com/mod/notenoughcrashes)
+- [**PetOwner**](https://modrinth.com/mod/petowner)
+- [**Piston Order**](https://www.curseforge.com/minecraft/mc-mods/pistorder)
+- [**Precise Block Placing**](https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing)
+- [**Sign Copy**](https://www.curseforge.com/minecraft/mc-mods/signcopy)
+- [**Tweakeroo**](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
+- [**WorldEdit**](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+- [**Mouse Wheelie**](https://modrinth.com/mod/mouse-wheelie)
 
 ## **Performance**
 
-|    Mod Name     | Fabric                                                            |
-| :-------------: | ----------------------------------------------------------------- |
-|   Cull Leaves   | [Yes](https://modrinth.com/mod/cull-leaves)                       |
-|   DashLoader    | [Yes](https://modrinth.com/mod/dashloader)                        |
-|   DynamicFPS    | [Yes](https://modrinth.com/mod/dynamic-fps)                       |
-| Entity Culling  | [Yes](https://www.curseforge.com/minecraft/mc-mods/entityculling) |
-| Entity Distance | [Yes](https://modrinth.com/mod/entity-distance)                   |
-|     Indium      | [Yes](https://modrinth.com/mod/indium)                            |
-|     Krypton     | [Yes](https://modrinth.com/mod/krypton)                           |
-|     LazyDFU     | [Yes](https://modrinth.com/mod/lazydfu)                           |
-|     Lithium     | [Yes](https://modrinth.com/mod/lithium)                           |
-|     Sodium      | [Yes](https://modrinth.com/mod/sodium)                            |
-|    Starlight    | [Yes](https://github.com/Tuinity/Starlight)                       |
+- [**Cull Leaves**](https://modrinth.com/mod/cull-leaves)
+- [**DashLoader**](https://modrinth.com/mod/dashloader)
+- [**DynamicFPS**](https://modrinth.com/mod/dynamic-fps)
+- [**Entity Culling**](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+- [**Entity Distance**](https://modrinth.com/mod/entity-distance)
+- [**Indium**](https://modrinth.com/mod/indium)
+- [**Krypton**](https://modrinth.com/mod/krypton)
+- [**LazyDFU**](https://modrinth.com/mod/lazydfu)
+- [**Lithium**](https://modrinth.com/mod/lithium)
+- [**Sodium**](https://modrinth.com/mod/sodium)
+- [**Starlight**](https://github.com/Tuinity/Starlight)
 
 ## **.**
 
