@@ -26,7 +26,7 @@
 
   Adds support for connected textures
 
-  - **CTM/Chisel format, not compatible with optifine**
+  - **CTM/Chisel format, not compatible with optifine packs**
 
 - [**Custom Stars**](https://www.curseforge.com/minecraft/mc-mods/custom-stars)
 
@@ -64,11 +64,15 @@
 
   Adds a variety of sounds when stepping through different terrains
 
-- [Drip Sounds](https://modrinth.com/mod/dripsounds-fabric)
+- [**Drip Sounds**](https://modrinth.com/mod/dripsounds-fabric)
 
   Adds sounds to drip particles
 
   - **Not compatible with Iris**
+
+- [**Camera Overhaul**](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul/download/3151163)
+
+  Makes the camera more dynamic with tilting
 
 ## **HUD**
 
@@ -188,6 +192,18 @@
 
   Changes the background when loading worlds to a screenshot
 
+- [**Held Item Info**](https://www.curseforge.com/minecraft/mc-mods/held-item-info)
+
+  Displays extra information about the item being held
+
+- [**BetterF3**](https://www.curseforge.com/minecraft/mc-mods/betterf3)
+
+  Replaces the game's built in F3 screen
+
+- [**Textbook**](https://modrinth.com/mod/textbook)
+
+  Adds options to import text from the clipboard or a file
+
 ## **Gameplay**
 
 - [**AFKPeace**](https://modrinth.com/mod/afkpeace)
@@ -245,6 +261,14 @@
 - [**StepUp Next**](https://www.curseforge.com/minecraft/mc-mods/stepupnext)
 
   Allows climbing one block high gaps without jumping
+
+- [**Name Pain**](https://www.curseforge.com/minecraft/mc-mods/name-pain)
+
+  Tints the name or tag of players and mobs in red when at low health
+
+- [**Better Ping Display**](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
+
+  Replaces the ping bars with ms readings
 
 ## **Utility**
 
@@ -304,6 +328,22 @@
 
   Adds interactions with the mouse wheel when managing items
 
+- [**Spark**](https://modrinth.com/mod/spark)
+
+  Performance profiler with a clean UI
+
+- [**Amecs**](https://www.curseforge.com/minecraft/mc-mods/amecs)
+
+  Allows the use of modifier keys, introduces control search bar
+
+- [**Audio Output**](https://www.curseforge.com/minecraft/mc-mods/audio-output)
+
+  Adds the ability to change the audio device in game
+
+- [**Light Overlay**](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
+
+  Displays an overlay with the current light level
+
 ## **Performance**
 
 - [**Cull Leaves**](https://modrinth.com/mod/cull-leaves)
@@ -352,6 +392,14 @@
 
   - **Beta, but stable**
 
+## **Other**
+
+- [**Pling**](https://www.curseforge.com/minecraft/mc-mods/pling)
+
+  Plays a sound when the game (or a world) finishes loading.
+
+  - Not compatible with dashloader? (Game load sound does not play, needs cause)
+
 **Libraries**
 
 - [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/)
@@ -360,9 +408,13 @@
 
 - [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
 
+- [Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
+
 - [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 
 - [AutoConfig](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api)
+
+- [Fireplace Lib](https://modrinth.com/mod/fireplace-lib)
 
 **Not compatible with DashLoader**
 
@@ -418,7 +470,6 @@
 |       Smarter HUD        | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/smarter-hud)                                                               |
 |      Recently Used       | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/recently-used/files/3087343)                                               |
 |      Fabripresence       | 1.16.5  | Utility     | [Yes](https://modrinth.com/mod/fabripresence)                                                                                 |
-|         Textbook         | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/textbook)                                                                                      |
 |       Smooth Boot        | 1.16.5  | Performance | [Yes](https://modrinth.com/mod/smoothboot-fabric)                                                                             |
 |       MinimalMenu        | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/minimalmenu)                                                                                   |
 |      Don't Drop It!      | 1.16.4  | Gameplay    | [Yes](https://modrinth.com/mod/HcVOCzMh)                                                                                      |
@@ -430,6 +481,7 @@
 |    Head-down Display     | 1.16.4  | HUD         | [Yes](https://modrinth.com/mod/hdd)                                                                                           |
 |       AdvancedChat       | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/advancedchat)                                                                                  |
 | Connected Block Textures | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures)                                                  |
+|      Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
 
 ## **Looking for Fabric equivalent**
 
@@ -447,7 +499,6 @@
 |  Swing Through Grass  | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)        |
 |     Client Tweaks     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)            |
 |     Friendly Fire     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/friendly-fire)            |
-|    Chunk Animator     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/chunk-animator)           |
 |       KleeSlabs       | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)                |
 |    Whats That Slot    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/whats-that-slot)          |
 |        Findme         | 1.16.5  | Gameplay  | [Yes](https://www.curseforge.com/minecraft/mc-mods/findme)                   |
