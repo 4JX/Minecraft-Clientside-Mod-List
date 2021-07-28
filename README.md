@@ -14,7 +14,6 @@
 |       Damage Tilt        | 1.17.1  | Gameplay  | [Yes](https://www.curseforge.com/minecraft/mc-mods/damage-tilt) | [Yes](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)                   |
 |       Extra Sounds       | 1.17.1  | HUD       | No                                                              | [Yes](https://modrinth.com/mod/extrasounds)                                       |
 |      Falling leaves      | 1.17.1  | Game Feel | No                                                              | [Yes](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)         |
-|   Horse Stats Vanilla    | 1.17.1  | HUD       | No                                                              | [Yes](https://modrinth.com/mod/horsestatsvanilla)                                 |
 |   LambdaDynamicLights    | 1.17.1  | Game Feel | No                                                              | [Yes](https://modrinth.com/mod/lambdynamiclights/)                                |
 |         Low Fire         | 1.17.1  | Game Feel | No                                                              | [Yes](https://www.curseforge.com/minecraft/mc-mods/low-fire)                      |
 |      Sword Blocking      | 1.17.1  | Gameplay  | No                                                              | [Yes](https://www.curseforge.com/minecraft/mc-mods/sword-blocking)                |
@@ -40,7 +39,6 @@
 |       Loading Timer       | 1.17.1  | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/loading-timer)                                |
 |    Memory Usage Screen    | 1.17.1  | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/memory-usage-screen)                          |
 |          ModMenu          | 1.17.1  | Utility  | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/modmenu)                  |
-|       Mouse Wheelie       | 1.17.1  | Utility  | No                                                                           | [Yes](https://modrinth.com/mod/mouse-wheelie)                                |
 | No Nether Portal Overlay  | 1.17.1  | Gameplay | No                                                                           | [Yes](https://modrinth.com/mod/no-nether-portal-overlay)                     |
 |       NoRecipeBook        | 1.17.1  | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/norecipebook-fabric)                          |
 |       OP Items Tab        | 1.17.1  | HUD      | No                                                                           | [Yes](https://www.curseforge.com/minecraft/mc-mods/op-items-tab)             |
@@ -52,6 +50,7 @@
 |      Xaero's Minimap      | 1.17.1  | HUD      | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)           | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)           |
 |     Xaero's World Map     | 1.17.1  | HUD      | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)         | [Yes](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)         |
 |           Slyde           |  1.17   | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/slyde)                                        |
+|    Horse Stats Vanilla    | 1.17.1  | HUD      | No                                                                           | [Yes](https://modrinth.com/mod/horsestatsvanilla)                            |
 
 ## **Gameplay**
 
@@ -89,6 +88,7 @@
 |        Sign Copy         | 1.17.1  | Gameplay | No                                                                      | [Yes](https://www.curseforge.com/minecraft/mc-mods/signcopy)            |
 |        Tweakeroo         | 1.17.1  | Utility  | No                                                                      | [Yes](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)           |
 |        WorldEdit         | 1.17.1  | Utility  | No                                                                      | [Yes](https://www.curseforge.com/minecraft/mc-mods/worldedit)           |
+|      Mouse Wheelie       | 1.17.1  | Utility  | No                                                                      | [Yes](https://modrinth.com/mod/mouse-wheelie)                           |
 
 ## **Performance**
 
