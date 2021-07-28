@@ -60,6 +60,10 @@
 
   Makes leaves bushier
 
+- [**Presence Footsteps**](https://modrinth.com/mod/presence-footsteps)
+
+  Adds a variety of sounds when stepping through different terrains
+
 ## **HUD**
 
 - [**Advancements Enlarger**](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
@@ -173,6 +177,10 @@
 - [**Horse Stats Vanilla**](https://modrinth.com/mod/horsestatsvanilla)
 
   Display stats for horses in the inventory
+
+- [**Seamless Loading Screen**](https://modrinth.com/mod/seamless-loading-screen)
+
+  Changes the background when loading worlds to a screenshot
 
 ## **Gameplay**
 
@@ -338,15 +346,6 @@
 
   - **Beta, but stable**
 
-## **.**
-
-| Seamless Loading Screen | 1.17 | Game Feel | No | [Yes](https://modrinth.com/mod/seamless-loading-screen) |
-| Presence Footsteps | 1.17 | Game Feel | No | [Yes](https://modrinth.com/mod/presence-footsteps) |
-
-## **.**
-
-## **.**
-
 **Dependencies**
 
 [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/)
@@ -398,7 +397,10 @@
 |        Iris Shaders        |  1.17   | Game Feel   | No                                                             | [Yes](https://modrinth.com/mod/iris)                                            |
 
 **Unstable**
-| Enhanced Attack Indicator | 1.17.1 | HUD | No | [Yes](https://modrinth.com/mod/enhanced-attack-indicator) |
+
+|         Mod Name          | Version | Category | Forge | Fabric                                                    |
+| :-----------------------: | :-----: | -------- | ----- | --------------------------------------------------------- |
+| Enhanced Attack Indicator | 1.17.1  | HUD      | No    | [Yes](https://modrinth.com/mod/enhanced-attack-indicator) |
 
 https://www.planetminecraft.com/texture-pack/default-3d-2985741/
 
