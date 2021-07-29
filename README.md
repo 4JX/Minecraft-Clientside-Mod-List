@@ -74,11 +74,17 @@
 
   Makes the camera more dynamic with tilting
 
+- [**Dynamic Sound Filters**](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters)
+
+  Adds echo, muffling, etc
+
+  - [**Unoficial build**](https://bitbucket.org/andre111/dynamicsoundfilters/pull-requests/1)
+
 ## **HUD**
 
-- [**Advancements Enlarger**](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
+- [**Advancements Enlarger**](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)/[**AdvancementInfo**](https://www.modrinth.com/mod/advancementinfo)
 
-  Makes the advancements screen larger
+  Makes the advancements screen larger. Aditionally, AdvancementInfo displays completion progress, albeit in a rather rough way.
 
 - [**AppleSkin**](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 
@@ -204,6 +210,14 @@
 
   Adds options to import text from the clipboard or a file
 
+- [**Name Pain**](https://www.curseforge.com/minecraft/mc-mods/name-pain)
+
+  Tints the name or tag of players and mobs in red when at low health
+
+- [**Better Ping Display**](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
+
+  Replaces the ping bars with ms readings
+
 ## **Gameplay**
 
 - [**AFKPeace**](https://modrinth.com/mod/afkpeace)
@@ -262,13 +276,9 @@
 
   Allows climbing one block high gaps without jumping
 
-- [**Name Pain**](https://www.curseforge.com/minecraft/mc-mods/name-pain)
+- [**Auto Torch**](https://www.modrinth.com/mod/auto-torch/versions)
 
-  Tints the name or tag of players and mobs in red when at low health
-
-- [**Better Ping Display**](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
-
-  Replaces the ping bars with ms readings
+  Automatically places torches
 
 ## **Utility**
 
@@ -344,15 +354,15 @@
 
   Displays an overlay with the current light level
 
+- [**MixinTrace**](https://www.modrinth.com/mod/mixintrace)
+
+  Adds mixin traces to crash logs
+
 ## **Performance**
 
 - [**Cull Leaves**](https://modrinth.com/mod/cull-leaves)
 
   Similar to Optifine's smart leaves feature
-
-- [**DashLoader**](https://modrinth.com/mod/dashloader)
-
-  Improves the minecraft startup time
 
 - [**DynamicFPS**](https://modrinth.com/mod/dynamic-fps)
 
@@ -392,11 +402,27 @@
 
   - **Beta, but stable**
 
+- [**Hydrogen**](https://modrinth.com/mod/hydrogen/)
+
+  Reduces RAM usage
+
+  - **Incompatible with DashLoader**
+
+- [**Enhanced Block Entities**](https://modrinth.com/mod/ebe)
+
+  Optimises some blocks such as chests to produce less lag
+
+  - **Incompatible with DashLoader**
+
+- [**Ferrite Core**](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/)
+
+  Reduces RAM usage
+
 ## **Other**
 
 - [**Pling**](https://www.curseforge.com/minecraft/mc-mods/pling)
 
-  Plays a sound when the game (or a world) finishes loading.
+  Plays a sound when the game (or a world) finishes loading
 
   - Not compatible with dashloader? (Game load sound does not play, needs cause)
 
@@ -418,11 +444,9 @@
 
 **Not compatible with DashLoader**
 
-|         Mod Name         | Version | Category    | Fabric                                            |
-| :----------------------: | :-----: | ----------- | ------------------------------------------------- |
-| Enchanced Block Entities | 1.17.1  | Performance | [Yes](https://modrinth.com/mod/ebe)               |
-|    LambdaBetterGrass     | 1.17.1  | Game Feel   | [Yes](https://modrinth.com/mod/lambdabettergrass) |
-|         Hydrogen         | 1.17.1  | Performance | [Yes](https://modrinth.com/mod/hydrogen/)         |
+|     Mod Name      | Version | Category  | Fabric                                            |
+| :---------------: | :-----: | --------- | ------------------------------------------------- |
+| LambdaBetterGrass | 1.17.1  | Game Feel | [Yes](https://modrinth.com/mod/lambdabettergrass) |
 
 **Not used**
 
@@ -447,6 +471,12 @@
 |      Invisible Frames      |  1.17   | Game Feel | [Yes](https://modrinth.com/mod/invisframes)                                     |
 |        Iris Shaders        |  1.17   | Game Feel | [Yes](https://modrinth.com/mod/iris)                                            |
 
+## **Performance**
+
+- [**DashLoader**](https://modrinth.com/mod/dashloader)
+
+  Improves the minecraft startup time´
+
 **Unstable**
 
 |         Mod Name          | Version | Category | Fabric                                                    |
@@ -455,33 +485,47 @@
 
 ## **Older**
 
-|         Mod Name         | Version | Category    | Fabric                                                                                                                        |
-| :----------------------: | :-----: | ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
-|        Replay Mod        | 1.16.5  | Utility     | [Yes](https://www.replaymod.com/download/)                                                                                    |
-|     Inventory Sorter     | 1.16.1  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)                                                          |
-|        VanillaFix        | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/vanillafix) [Extra](https://github.com/DimensionalDevelopment/VanillaFix/) |
-|          ReAuth          | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/reauth-fabric)                                                             |
-|      Better Foilage      | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-foliage)                                                            |
-|        Auto Torch        | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/auto-torch)                                                                |
-|        Nicephore         | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/nicephore-fabric)                                                          |
-|     Helpful Hitboxes     | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/helpful-hitboxes-fabric)                                                   |
-|      RandomPatches       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)                                                      |
-|      Recently Used       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/recently-used)                                                             |
-|       Smarter HUD        | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/smarter-hud)                                                               |
-|      Recently Used       | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/recently-used/files/3087343)                                               |
-|      Fabripresence       | 1.16.5  | Utility     | [Yes](https://modrinth.com/mod/fabripresence)                                                                                 |
-|       Smooth Boot        | 1.16.5  | Performance | [Yes](https://modrinth.com/mod/smoothboot-fabric)                                                                             |
-|       MinimalMenu        | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/minimalmenu)                                                                                   |
-|      Don't Drop It!      | 1.16.4  | Gameplay    | [Yes](https://modrinth.com/mod/HcVOCzMh)                                                                                      |
-|       QuickReplant       | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/quickreplant)                                                                                  |
-|    Better Eating Mod     | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/better-eating)                                                                                 |
-|        Auto Torch        | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/auto-torch/)                                                                                   |
-|        QuickCalc         | 1.16.5  | Utility     | [Yes](https://modrinth.com/mod/quickcalc)                                                                                     |
-|   BetterEnchantedBooks   | 1.16.5  | Game Feel   | [Yes](https://modrinth.com/mod/better-enchanted-books)                                                                        |
-|    Head-down Display     | 1.16.4  | HUD         | [Yes](https://modrinth.com/mod/hdd)                                                                                           |
-|       AdvancedChat       | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/advancedchat)                                                                                  |
-| Connected Block Textures | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures)                                                  |
-|      Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
+|         Mod Name          | Version | Category    | Fabric                                                                                                                        |
+| :-----------------------: | :-----: | ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
+|        Replay Mod         | 1.16.5  | Utility     | [Yes](https://www.replaymod.com/download/)                                                                                    |
+|     Inventory Sorter      | 1.16.1  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)                                                          |
+|        VanillaFix         | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/vanillafix) [Extra](https://github.com/DimensionalDevelopment/VanillaFix/) |
+|          ReAuth           | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/reauth-fabric)                                                             |
+|      Better Foilage       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-foliage)                                                            |
+|         Nicephore         | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/nicephore-fabric)                                                          |
+|     Helpful Hitboxes      | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/helpful-hitboxes-fabric)                                                   |
+|       RandomPatches       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)                                                      |
+|       Recently Used       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/recently-used)                                                             |
+|        Smarter HUD        | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/smarter-hud)                                                               |
+|       Recently Used       | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/recently-used/files/3087343)                                               |
+|       Fabripresence       | 1.16.5  | Utility     | [Yes](https://modrinth.com/mod/fabripresence)                                                                                 |
+|        Smooth Boot        | 1.16.5  | Performance | [Yes](https://modrinth.com/mod/smoothboot-fabric)                                                                             |
+|        MinimalMenu        | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/minimalmenu)                                                                                   |
+|      Don't Drop It!       | 1.16.4  | Gameplay    | [Yes](https://modrinth.com/mod/HcVOCzMh)                                                                                      |
+|       QuickReplant        | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/quickreplant)                                                                                  |
+|     Better Eating Mod     | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/better-eating)                                                                                 |
+|        Auto Torch         | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/auto-torch/)                                                                                   |
+|         QuickCalc         | 1.16.5  | Utility     | [Yes](https://modrinth.com/mod/quickcalc)                                                                                     |
+|   BetterEnchantedBooks    | 1.16.5  | Game Feel   | [Yes](https://modrinth.com/mod/better-enchanted-books)                                                                        |
+|     Head-down Display     | 1.16.4  | HUD         | [Yes](https://modrinth.com/mod/hdd)                                                                                           |
+|       AdvancedChat        | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/advancedchat)                                                                                  |
+| Connected Block Textures  | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures)                                                  |
+|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
+|     Better World List     | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-world-list)                                                         |
+| Roughly Enough Resourdes  | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources)                                                  |
+| Smooth Scrolling Anywhere | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric)                                        |
+|     Borderless Mining     | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)                                                         |
+|       WorldEdit CUI       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric)                                                       |
+|    Better Local Server    | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-local-server)                                                       |
+|          AFKTape          | 1.16.5  | Gameplay    | [Yes](https://www.curseforge.com/minecraft/mc-mods/afktape)                                                                   |
+|      Bedrock Waters       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters)                                                             |
+|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
+|    ResolutionControl+     |  1.17   | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/resolutioncontrol/files)                                                   |
+|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
+|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
+|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
+|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
+|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
 
 ## **Looking for Fabric equivalent**
 
@@ -495,10 +539,18 @@
 |    Crafting Tweaks    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)          |
 |   Inventory Tweaks    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed) |
 |     Toast Control     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/toast-control)            |
-|  Better Advancements  | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-advancements)      |
 |  Swing Through Grass  | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)        |
 |     Client Tweaks     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)            |
 |     Friendly Fire     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/friendly-fire)            |
 |       KleeSlabs       | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)                |
 |    Whats That Slot    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/whats-that-slot)          |
 |        Findme         | 1.16.5  | Gameplay  | [Yes](https://www.curseforge.com/minecraft/mc-mods/findme)                   |
+
+**Needs Clasifying/Testing**
+https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric
+https://www.curseforge.com/minecraft/mc-mods/no-potion-offset
+https://www.curseforge.com/minecraft/mc-mods/health-overlay-fabric
+https://www.curseforge.com/minecraft/mc-mods/map-tooltip
+https://www.curseforge.com/minecraft/mc-mods/tooltipfix
+https://www.curseforge.com/minecraft/mc-mods/enchanted-tooltips
+https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric
