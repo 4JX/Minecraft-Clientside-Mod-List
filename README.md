@@ -122,9 +122,9 @@
 
   Adds descriptions to enchantments
 
-- [**Emma's Simple Elytra View**](https://modrinth.com/mod/esev)
+- [**Emma's Simple Elytra View**](https://modrinth.com/mod/esev)/[**FlightHUD**](https://www.curseforge.com/minecraft/mc-mods/flighthud)
 
-  Displays the pitch and speed while flying
+  Displays the pitch and speed while flying. FlightHUD is a more complete variant.
 
 - [**FPS - Display**](https://modrinth.com/mod/fpsdisplay)
 
