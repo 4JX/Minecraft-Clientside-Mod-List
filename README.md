@@ -531,28 +531,33 @@
 
 ## **Looking for Fabric equivalent**
 
-|       Mod Name        | Version | Category  | Forge                                                                        |
-| :-------------------: | :-----: | --------- | ---------------------------------------------------------------------------- |
-|  Picture In Picture   |  1.12   | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/picture-in-picture-pip)   |
-| Armor Thoughtness Bar | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)      |
-|      Controlling      | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/controlling)              |
-|     Sound Filters     | 1.16.5  | Game Feel | [Yes](https://www.curseforge.com/minecraft/mc-mods/sound-filters)            |
-| Dynamic Surroundings  | 1.16.5  | Game Feel | [Yes](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)     |
-|    Crafting Tweaks    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)          |
-|   Inventory Tweaks    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed) |
-|     Toast Control     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/toast-control)            |
-|  Swing Through Grass  | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)        |
-|     Client Tweaks     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)            |
-|     Friendly Fire     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/friendly-fire)            |
-|       KleeSlabs       | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)                |
-|    Whats That Slot    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/whats-that-slot)          |
-|        Findme         | 1.16.5  | Gameplay  | [Yes](https://www.curseforge.com/minecraft/mc-mods/findme)                   |
+|       Mod Name        | Version | Category  | Forge                                                                      |
+| :-------------------: | :-----: | --------- | -------------------------------------------------------------------------- |
+|  Picture In Picture   |  1.12   | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/picture-in-picture-pip) |
+| Armor Thoughtness Bar | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)    |
+|      Controlling      | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/controlling)            |
+| Dynamic Surroundings  | 1.16.5  | Game Feel | [Yes](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)   |
+|    Crafting Tweaks    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)        |
+|     Toast Control     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/toast-control)          |
+|  Swing Through Grass  | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)      |
+|     Client Tweaks     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)          |
+|     Friendly Fire     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/friendly-fire)          |
+|       KleeSlabs       | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)              |
+|    Whats That Slot    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/whats-that-slot)        |
+|        Findme         | 1.16.5  | Gameplay  | [Yes](https://www.curseforge.com/minecraft/mc-mods/findme)                 |
 
 **Needs Clasifying/Testing**
+
 https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric
+
 https://www.curseforge.com/minecraft/mc-mods/no-potion-offset
+
 https://www.curseforge.com/minecraft/mc-mods/health-overlay-fabric
+
 https://www.curseforge.com/minecraft/mc-mods/map-tooltip
+
 https://www.curseforge.com/minecraft/mc-mods/tooltipfix
+
 https://www.curseforge.com/minecraft/mc-mods/enchanted-tooltips
+
 https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric
