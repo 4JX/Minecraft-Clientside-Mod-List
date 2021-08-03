@@ -442,13 +442,7 @@
 
 - [Fireplace Lib](https://modrinth.com/mod/fireplace-lib)
 
-**Not compatible with DashLoader**
-
-|     Mod Name      | Version | Category  | Fabric                                            |
-| :---------------: | :-----: | --------- | ------------------------------------------------- |
-| LambdaBetterGrass | 1.17.1  | Game Feel | [Yes](https://modrinth.com/mod/lambdabettergrass) |
-
-**Not used**
+## **Not used**
 
 |          Mod Name          | Version | Category  | Fabric                                                                          |
 | :------------------------: | :-----: | --------- | ------------------------------------------------------------------------------- |
@@ -471,13 +465,21 @@
 |      Invisible Frames      |  1.17   | Game Feel | [Yes](https://modrinth.com/mod/invisframes)                                     |
 |        Iris Shaders        |  1.17   | Game Feel | [Yes](https://modrinth.com/mod/iris)                                            |
 
-## **Performance**
+### **Performance**
 
 - [**DashLoader**](https://modrinth.com/mod/dashloader)
 
-  Improves the minecraft startup time´
+  Improves the minecraft startup time
 
-**Unstable**
+### **Game Feel**
+
+- [**LambdaBetterGrass**](https://modrinth.com/mod/lambdabettergrass)
+
+  An alternative look to Optifine's grass
+
+  - **Incompatible with DashLoader**
+
+## **Unstable**
 
 |         Mod Name          | Version | Category | Fabric                                                    |
 | :-----------------------: | :-----: | -------- | --------------------------------------------------------- |
