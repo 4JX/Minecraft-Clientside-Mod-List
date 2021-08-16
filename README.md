@@ -138,12 +138,6 @@
 
   Adds a timer for loading screens
 
-- [**Memory Usage Screen**](https://modrinth.com/mod/memory-usage-screen)
-
-  Copies Forge's memory usage overlay
-
-  - **Incompatible with FancyMenu**
-
 - [**ModMenu**](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 
   Let's you maange your mods
@@ -219,6 +213,12 @@
 - [**Better Ping Display**](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
 
   Replaces the ping bars with ms readings
+
+- [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric)
+
+  Allows for a great amount of customization in the game's main menu
+
+  - **Incompatible with Memory Usage Screen**
 
 ## **Gameplay**
 
@@ -481,6 +481,14 @@
 
   - **Incompatible with DashLoader**
 
+### **HUD**
+
+- [**Memory Usage Screen**](https://modrinth.com/mod/memory-usage-screen)
+
+  Copies Forge's memory usage overlay
+
+  - **Incompatible with FancyMenu**
+
 ## **Unstable**
 
 |         Mod Name          | Version | Category | Fabric                                                    |
@@ -548,8 +556,6 @@
 |        Findme         | 1.16.5  | Gameplay  | [Yes](https://www.curseforge.com/minecraft/mc-mods/findme)                 |
 
 **Needs Clasifying/Testing**
-
-https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric
 
 https://www.curseforge.com/minecraft/mc-mods/no-potion-offset
 
