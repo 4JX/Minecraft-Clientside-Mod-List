@@ -142,6 +142,8 @@
 
   Copies Forge's memory usage overlay
 
+  - **Incompatible with FancyMenu**
+
 - [**ModMenu**](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 
   Let's you maange your mods
@@ -506,7 +508,6 @@
 |      Don't Drop It!       | 1.16.4  | Gameplay    | [Yes](https://modrinth.com/mod/HcVOCzMh)                                                                                      |
 |       QuickReplant        | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/quickreplant)                                                                                  |
 |     Better Eating Mod     | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/better-eating)                                                                                 |
-|        Auto Torch         | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/auto-torch/)                                                                                   |
 |         QuickCalc         | 1.16.5  | Utility     | [Yes](https://modrinth.com/mod/quickcalc)                                                                                     |
 |   BetterEnchantedBooks    | 1.16.5  | Game Feel   | [Yes](https://modrinth.com/mod/better-enchanted-books)                                                                        |
 |     Head-down Display     | 1.16.4  | HUD         | [Yes](https://modrinth.com/mod/hdd)                                                                                           |
