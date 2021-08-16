@@ -80,6 +80,10 @@
 
   - [**Unoficial build**](https://bitbucket.org/andre111/dynamicsoundfilters/pull-requests/1)
 
+- [Iris Shaders](https://irisshaders.net/download.html#)
+
+  Adds shader support for fabric with Sodium
+
 ## **HUD**
 
 - [**Advancements Enlarger**](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)/[**AdvancementInfo**](https://www.modrinth.com/mod/advancementinfo)
@@ -465,7 +469,6 @@
 |           Beenfo           | 1.17.1  | Gameplay  | [Yes](https://modrinth.com/mod/beenfo)                                          |
 |         WorldTime          | 1.17.1  | HUD       | [Yes](https://modrinth.com/mod/worldtime)                                       |
 |      Invisible Frames      |  1.17   | Game Feel | [Yes](https://modrinth.com/mod/invisframes)                                     |
-|        Iris Shaders        |  1.17   | Game Feel | [Yes](https://modrinth.com/mod/iris)                                            |
 
 ### **Performance**
 
