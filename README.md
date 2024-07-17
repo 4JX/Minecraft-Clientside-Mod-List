@@ -2,11 +2,11 @@
 
 ## **Game Feel**
 
-- [**Adaptive Brightness**](https://www.curseforge.com/minecraft/mc-mods/adaptive-brightness)
+- ⚠️ [**Adaptive Brightness**](https://www.curseforge.com/minecraft/mc-mods/adaptive-brightness)
 
   Modifies the game's brightness slider based on the current light level
 
-- [**Better Beds**](https://www.curseforge.com/minecraft/mc-mods/better-beds)
+- [**Better Beds**](https://modrinth.com/mod/better-beds)
 
   Minor visual tweaks to the bed model
 
@@ -16,45 +16,45 @@
 
 - [**ClearDespawn**](https://modrinth.com/mod/cleardespawn)
 
-  Makes dropped items blink when they are about to despawn
+Makes dropped items blink when they are about to despawn
 
-- [**Clear Skies**](https://www.curseforge.com/minecraft/mc-mods/clear-skies)
+- ⚠️ [**Clear Skies**](https://www.curseforge.com/minecraft/mc-mods/clear-skies)
 
   Removes the banding from the vanilla sky
 
-- [**ConnectedTexturesMod**](https://www.curseforge.com/minecraft/mc-mods/ctm-fabric)
+  - ❗Possibly use [this](https://modrinth.com/mod/smooth-skies/gallery)
+
+- [**Continuity**](https://modrinth.com/mod/continuity)
 
   Adds support for connected textures
 
-  - **CTM/Chisel format, not compatible with optifine packs**
+  - **Optifine format (not compatible with CTM/Chisel packs?)**
 
-- [**Custom Stars**](https://www.curseforge.com/minecraft/mc-mods/custom-stars)
+- ⚠️ [**Custom Stars**](https://www.curseforge.com/minecraft/mc-mods/custom-stars)
 
   Let's you customise the stars in Minecraft's night sky
 
-- [**Damage Tilt**](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)
+  - ❗Possible [replacement](https://modrinth.com/mod/astrocraft)
 
-  Tilts the view towards the source of the damage
+- ❓[**Sounds**](https://modrinth.com/mod/extrasounds)
 
-- [**Extra Sounds**](https://modrinth.com/mod/extrasounds)
+  Introduces new sound effects and enhances the original ones in the game and HUD
 
-  Adds sounds when interacting with the HUD
+  - ❗May be able to replace presence footsteps
 
-- [**Falling leaves**](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)
+- [**Falling leaves**](https://modrinth.com/mod/fallingleaves)
 
   Makes trees drop leaves
 
 - [**LambdaDynamicLights**](https://modrinth.com/mod/lambdynamiclights/)
 
-  Similar to Optifine's dynamic lights
+Similar to Optifine's dynamic lights
 
-- [**Low Fire**](https://www.curseforge.com/minecraft/mc-mods/low-fire)
+- ⚠️ [**Low Fire**](https://www.curseforge.com/minecraft/mc-mods/low-fire)
 
   Lowers the fire overlay
 
-- [**Sword Blocking**](https://www.curseforge.com/minecraft/mc-mods/sword-blocking)
-
-  Brings back the sword blocking animation
+  - ❗Possible [replacement](https://modrinth.com/mod/firehud)
 
 - [**Motschen's Better Leaves**](https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves)
 
@@ -64,13 +64,7 @@
 
   Adds a variety of sounds when stepping through different terrains
 
-- [**Drip Sounds**](https://modrinth.com/mod/dripsounds-fabric)
-
-  Adds sounds to drip particles
-
-  - **Not compatible with Iris**
-
-- [**Camera Overhaul**](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul/download/3151163)
+- [**Camera Overhaul**](https://modrinth.com/mod/cameraoverhaul)
 
   Makes the camera more dynamic with tilting
 
@@ -78,7 +72,7 @@
 
   Adds echo, muffling, etc
 
-  - [**Unoficial build**](https://bitbucket.org/andre111/dynamicsoundfilters/pull-requests/1)
+  - ❗ Possible [better mod](https://modrinth.com/mod/sound-physics-remastered)
 
 - [Iris Shaders](https://irisshaders.net/download.html#)
 
@@ -86,15 +80,17 @@
 
 ## **HUD**
 
-- [**Advancements Enlarger**](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)/[**AdvancementInfo**](https://www.modrinth.com/mod/advancementinfo)
+- ⚠️ [**AdvancementInfo**](https://www.modrinth.com/mod/advancementinfo)
 
   Makes the advancements screen larger. Aditionally, AdvancementInfo displays completion progress, albeit in a rather rough way.
 
-- [**AppleSkin**](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+  - ❗Possible [better mod](https://modrinth.com/mod/better-advancements)
+
+- [**AppleSkin**](https://modrinth.com/mod/appleskin)
 
   Adds hunger and saturation indicators to various places
 
-- [**Better Mount HUD**](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud)
+- [**Better Mount HUD**](https://modrinth.com/mod/better-mount-hud)
 
   Enhances the mount HUD
 
@@ -102,11 +98,11 @@
 
   Blurs menu backgrounds
 
-- [**Chat heads**](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
+- [**Chat heads**](https://modrinth.com/mod/chat-heads)
 
   Adds player heads to the chat
 
-- [**Continue Button**](https://www.curseforge.com/minecraft/mc-mods/continue-button)
+- [**Continue Button**](https://modrinth.com/mod/continue)
 
   Adds a continue button which lets you resume where you left off
 
@@ -114,15 +110,15 @@
 
   Logs all your deaths
 
-- [**EasierCrafting**](https://modrinth.com/mod/easiercrafting)
+- ⚠️ [**EasierCrafting**](https://modrinth.com/mod/easiercrafting)
 
   Displays a list of items you can craft using your current inventory
 
-- [**EasierVillagerTrading**](https://modrinth.com/mod/easiervillagertrading)
+- ⚠️ [**EasierVillagerTrading**](https://modrinth.com/mod/easiervillagertrading)
 
   Changes villager trading interactions
 
-- [**Enchantment Descriptions**](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
+- [**Enchantment Descriptions**](https://modrinth.com/mod/enchantment-descriptions)
 
   Adds descriptions to enchantments
 
@@ -130,7 +126,10 @@
 
   Displays the pitch and speed while flying. FlightHUD is a more complete variant.
 
-- [**FPS - Display**](https://modrinth.com/mod/fpsdisplay)
+  - ❗Possible [replacement](https://modrinth.com/mod/flightassistant)
+  - Honorary mention [different style](https://modrinth.com/mod/elytra-hud) and [simpler](https://modrinth.com/mod/elytrapitch/gallery)
+
+- ⚠️ [**FPS - Display**](https://modrinth.com/mod/fpsdisplay)
 
   Adds a FPS counter
 
@@ -138,11 +137,11 @@
 
   Various HUD overlays
 
-- [**Loading Timer**](https://modrinth.com/mod/loading-timer)
+- ⚠️ [**Loading Timer**](https://modrinth.com/mod/loading-timer)
 
   Adds a timer for loading screens
 
-- [**ModMenu**](https://www.curseforge.com/minecraft/mc-mods/modmenu)
+- [**ModMenu**](https://modrinth.com/mod/modmenu)
 
   Let's you maange your mods
 
@@ -158,31 +157,37 @@
 
   Adds a tab for OP items in creative
 
-- [**Quick Connect Button**](https://modrinth.com/mod/quickconnectbutton)
+- ⚠️ [**Quick Connect Button**](https://modrinth.com/mod/quickconnectbutton)
 
   Creates a button to let you quickly connect to a server
 
-- [**Roughly Enough Items**](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+  - ❗Possible [replacement](https://modrinth.com/mod/quicker-connect-button)
+
+- [**Roughly Enough Items**](https://modrinth.com/mod/rei)
 
   JEI for fabric
 
-- [**Searchable Containers**](https://www.curseforge.com/minecraft/mc-mods/searchable-containers)
+  - ❗Use alongside [EMI](https://modrinth.com/mod/emi)?
+
+- ⚠️ [**Searchable Containers**](https://www.curseforge.com/minecraft/mc-mods/searchable-containers)
 
   Enables searching the content of storages
 
-- [**Shulker Box Tooltip**](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
+- [**Shulker Box Tooltip**](https://modrinth.com/mod/shulkerboxtooltip)
 
   Let's you view the contents of a shulker
 
-- [**StatsSearch**](https://modrinth.com/mod/statssearch)
+- ⚠️[**StatsSearch**](https://modrinth.com/mod/statssearch)
 
   Adds a search bar to the statistics menu
 
-- [**Xaero's Minimap**](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+  - ❗Maybe [better mod](https://modrinth.com/mod/better-stats)
+
+- [**Xaero's Minimap**](https://modrinth.com/mod/xaeros-minimap)
 
   Utility minimap with waypoints
 
-- [**Xaero's World Map**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- [**Xaero's World Map**](https://modrinth.com/mod/xaeros-world-map)
 
   Complementary world map for Xaero's Minimap
 
@@ -198,11 +203,11 @@
 
   Changes the background when loading worlds to a screenshot
 
-- [**Held Item Info**](https://www.curseforge.com/minecraft/mc-mods/held-item-info)
+- [**Held Item Info**](https://modrinth.com/mod/held-item-info)
 
   Displays extra information about the item being held
 
-- [**BetterF3**](https://www.curseforge.com/minecraft/mc-mods/betterf3)
+- [**BetterF3**](https://modrinth.com/mod/betterf3)
 
   Replaces the game's built in F3 screen
 
@@ -210,19 +215,13 @@
 
   Adds options to import text from the clipboard or a file
 
-- [**Name Pain**](https://www.curseforge.com/minecraft/mc-mods/name-pain)
+- [**Name Pain**](https://modrinth.com/mod/name-pain)
 
   Tints the name or tag of players and mobs in red when at low health
 
-- [**Better Ping Display**](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
+- [**Better Ping Display**](https://modrinth.com/mod/better-ping-display-fabric)
 
   Replaces the ping bars with ms readings
-
-- [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric)
-
-  Allows for a great amount of customization in the game's main menu
-
-  - **Incompatible with Memory Usage Screen**
 
 ## **Gameplay**
 
@@ -230,15 +229,17 @@
 
   Greater control over being AFK
 
-- [**Auto Third Person**](https://www.curseforge.com/minecraft/mc-mods/auto-third-person)
+- ⚠️[**Auto Third Person**](https://www.curseforge.com/minecraft/mc-mods/auto-third-person)
 
   Automatically changes to third person on different scenarios
 
-- [**AutoFish**](https://www.curseforge.com/minecraft/mc-mods/autofish)
+- ⚠️[**AutoFish**](https://www.curseforge.com/minecraft/mc-mods/autofish)
 
   Automatically fishes
 
-- [**AutoSwitch**](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch)
+  - ❗Possible [replacement](https://modrinth.com/mod/x+-autofish)
+
+- [**AutoSwitch**](https://modrinth.com/mod/autoswitch)
 
   Automatically swich to the optimal tool for each block
 
@@ -246,27 +247,19 @@
 
   Allows rotating the camera independently from player movement
 
-- [**Boat Item View**](https://www.curseforge.com/minecraft/mc-mods/boat-item-view)
+- ⚠️[**Boat Item View**](https://www.curseforge.com/minecraft/mc-mods/boat-item-view)
 
   Enables viewing maps while moving on boats
 
-- [**ClickThrough**](https://modrinth.com/mod/clickthrough)
+- ⚠️[**ClickThrough**](https://modrinth.com/mod/clickthrough)
 
   Helps opening chests hidden behind a sign
-
-- [**Critical Orientation**](https://modrinth.com/mod/orientation)
-
-  Alings you for placing boats on the nether
-
-- [**FlightHelper**](https://modrinth.com/mod/flighthelper)
-
-  Locks your pitch while flying with elytras
 
 - [**InvMove**](https://modrinth.com/mod/invmove-fabric)
 
   Allows moving while inside a menu
 
-- [**Monsters In The Closet**](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet)
+- [**Monsters In The Closet**](https://modrinth.com/mod/monsters-in-the-closet)
 
   Highlights nearby monsters when trying to sleep
 
@@ -278,21 +271,23 @@
 
   Optifine like zoom
 
-- [**StepUp Next**](https://www.curseforge.com/minecraft/mc-mods/stepupnext)
+- ⚠️[**StepUp Next**](https://www.curseforge.com/minecraft/mc-mods/stepupnext)
 
   Allows climbing one block high gaps without jumping
 
-- [**Auto Torch**](https://www.modrinth.com/mod/auto-torch/versions)
+  - ❗Possible [replacement](https://modrinth.com/mod/stepupagain)
+
+- ⚠️[**Auto Torch**](https://www.modrinth.com/mod/auto-torch/versions)
 
   Automatically places torches
 
 ## **Utility**
 
-- [**AntiGhost**](https://modrinth.com/mod/antighost)
+- ⚠️[**AntiGhost**](https://modrinth.com/mod/antighost)
 
   Removes ghost blocks by requesting resends as needed
 
-- [**Don't Clear Chat History**](https://modrinth.com/mod/dcch)
+- ⚠️[**Don't Clear Chat History**](https://modrinth.com/mod/dcch)
 
   Disables the clearing of the chat history when exiting a world
 
@@ -300,7 +295,7 @@
 
   Larger screenshots
 
-- [**Flour's Various Tweaks**](https://modrinth.com/mod/fvt)
+- ⚠️[**Flour's Various Tweaks**](https://modrinth.com/mod/fvt)
 
   Small set of tweaks
 
@@ -308,7 +303,7 @@
 
   Helps working with schematics
 
-- [**Name Lookup**](https://modrinth.com/mod/name-lookup)
+- ⚠️[**Name Lookup**](https://modrinth.com/mod/name-lookup)
 
   Allows searching for the names of players
 
@@ -320,7 +315,7 @@
 
   Adds information on who owns a pet
 
-- [**Piston Order**](https://www.curseforge.com/minecraft/mc-mods/pistorder)
+- [**Piston Order**](https://modrinth.com/mod/pistorder)
 
   Displays how many blocks a piston can push
 
@@ -328,17 +323,11 @@
 
   Removes the delay between placing blocks
 
-- [**Sign Copy**](https://www.curseforge.com/minecraft/mc-mods/signcopy)
+  - ❗Possible [replacement](https://modrinth.com/mod/accurate-block-placement-reborn)
+
+- ⚠️[**Sign Copy**](https://www.curseforge.com/minecraft/mc-mods/signcopy)
 
   Allows copying signs
-
-- [**Tweakeroo**](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
-
-  Comprenhensive set of tweaks
-
-- [**WorldEdit**](https://www.curseforge.com/minecraft/mc-mods/worldedit)
-
-  Enables faster building and planning with brushes and other tools
 
 - [**Mouse Wheelie**](https://modrinth.com/mod/mouse-wheelie)
 
@@ -348,17 +337,19 @@
 
   Performance profiler with a clean UI
 
-- [**Amecs**](https://www.curseforge.com/minecraft/mc-mods/amecs)
+- [**Amecs**](https://modrinth.com/mod/amecs)
 
   Allows the use of modifier keys, introduces control search bar
 
-- [**Audio Output**](https://www.curseforge.com/minecraft/mc-mods/audio-output)
+- ⚠️[**Audio Output**](https://www.curseforge.com/minecraft/mc-mods/audio-output)
 
   Adds the ability to change the audio device in game
 
 - [**Light Overlay**](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
 
   Displays an overlay with the current light level
+
+  - ❗Possibly [better mod](https://modrinth.com/mod/lighty)
 
 - [**MixinTrace**](https://www.modrinth.com/mod/mixintrace)
 
@@ -374,13 +365,15 @@
 
   Reduces FPS when minecraft is not in focus
 
-- [**Entity Culling**](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+- [**Entity Culling**](https://modrinth.com/mod/entityculling)
 
   Does not render entities outside of the view range
 
-- [**Entity Distance**](https://modrinth.com/mod/entity-distance)
+- ⚠️[**Entity Distance**](https://modrinth.com/mod/entity-distance)
 
   Custom distance for rendering entitites
+
+  - ❗Possible [replacement](https://modrinth.com/mod/entity-view-distance)
 
 - [**Indium**](https://modrinth.com/mod/indium)
 
@@ -394,6 +387,8 @@
 
   Improves minecraft loading times
 
+  - ❓ Probably not needed for 1.20.X
+
 - [**Lithium**](https://modrinth.com/mod/lithium)
 
   Various game optimisations
@@ -401,12 +396,6 @@
 - [**Sodium**](https://modrinth.com/mod/sodium)
 
   Improves FPS
-
-- [**Starlight**](https://github.com/Tuinity/Starlight)
-
-  Optimises minecraft lighting
-
-  - **Beta, but stable**
 
 - [**Hydrogen**](https://modrinth.com/mod/hydrogen/)
 
@@ -420,13 +409,13 @@
 
   - **Incompatible with DashLoader**
 
-- [**Ferrite Core**](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/)
+- [**Ferrite Core**](https://modrinth.com/mod/ferrite-core)
 
   Reduces RAM usage
 
 ## **Other**
 
-- [**Pling**](https://www.curseforge.com/minecraft/mc-mods/pling)
+- [**Pling**](https://modrinth.com/mod/pling)
 
   Plays a sound when the game (or a world) finishes loading
 
@@ -469,6 +458,12 @@
 |           Beenfo           | 1.17.1  | Gameplay  | [Yes](https://modrinth.com/mod/beenfo)                                          |
 |         WorldTime          | 1.17.1  | HUD       | [Yes](https://modrinth.com/mod/worldtime)                                       |
 |      Invisible Frames      |  1.17   | Game Feel | [Yes](https://modrinth.com/mod/invisframes)                                     |
+|       Sword Blocking       | 1.21.1  | Game Feel | [Yes](https://www.curseforge.com/minecraft/mc-mods/sword-blocking)              |
+|         FancyMenu          |  1.21   | HUD       | [Yes](https://modrinth.com/mod/fancymenu)                                       |
+|    Critical Orientation    | 1.20.1  | Gameplay  | [Yes](https://modrinth.com/mod/orientation)                                     |
+|        FlightHelper        | 1.20.4  | Gameplay  | [Yes](https://modrinth.com/mod/flighthelper)                                    |
+|         Tweakeroo          | 1.20.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)                   |
+|         WorldEdit          |  1.21   | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/worldedit)                   |
 
 ### **Performance**
 
@@ -535,7 +530,7 @@
 |      Bedrock Waters       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters)                                                             |
 |       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
 |    ResolutionControl+     |  1.17   | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/resolutioncontrol/files)                                                   |
-|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
+|        Drip Sounds        | 1.19.3  | Game Feel   | [Yes](https://modrinth.com/mod/dripsounds-fabric)                                                                             |
 |       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
 |       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
 |       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
@@ -571,3 +566,12 @@
 <https://www.curseforge.com/minecraft/mc-mods/enchanted-tooltips>
 
 <https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric>
+
+<https://modrinth.com/mod/frostbytes-improved-inventory>
+
+## **Obsolete**
+
+|  Mod Name   | Version | Category    | Reason                      | Fabric                                                          |
+| :---------: | :-----: | ----------- | --------------------------- | --------------------------------------------------------------- |
+| Damage Tilt | 1.19.0  | Game Feel   | Fixed in 1.19.4+ (MC-26678) | [Yes](https://www.curseforge.com/minecraft/mc-mods/damage-tilt) |
+|  Starlight  | 1.19.0  | Performance | Lighting engine rewrite     | [Yes](https://github.com/Tuinity/Starlight)                     |
