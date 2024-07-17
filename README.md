@@ -560,14 +560,14 @@
 
 **Needs Clasifying/Testing**
 
-https://www.curseforge.com/minecraft/mc-mods/no-potion-offset
+<https://www.curseforge.com/minecraft/mc-mods/no-potion-offset>
 
-https://www.curseforge.com/minecraft/mc-mods/health-overlay-fabric
+<https://www.curseforge.com/minecraft/mc-mods/health-overlay-fabric>
 
-https://www.curseforge.com/minecraft/mc-mods/map-tooltip
+<https://www.curseforge.com/minecraft/mc-mods/map-tooltip>
 
-https://www.curseforge.com/minecraft/mc-mods/tooltipfix
+<https://www.curseforge.com/minecraft/mc-mods/tooltipfix>
 
-https://www.curseforge.com/minecraft/mc-mods/enchanted-tooltips
+<https://www.curseforge.com/minecraft/mc-mods/enchanted-tooltips>
 
-https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric
+<https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric>
