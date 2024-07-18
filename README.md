@@ -569,6 +569,42 @@ Similar to Optifine's dynamic lights
 
 <https://modrinth.com/mod/frostbytes-improved-inventory>
 
+<https://modrinth.com/mod/smooth-scroll>
+
+<https://modrinth.com/mod/immediatelyfast>
+
+<https://modrinth.com/mod/language-reload>
+
+<https://modrinth.com/mod/modernfix>
+
+<https://modrinth.com/mod/rrls>
+
+Should just have a "Optifine compat" category with a lot of these:
+
+<https://modrinth.com/mod/animatica>
+
+<https://modrinth.com/mod/cit-resewn>
+
+<https://modrinth.com/mod/entity-model-features>
+
+<https://modrinth.com/mod/entitytexturefeatures>
+
+<https://modrinth.com/mod/modelfix>
+
+<https://modrinth.com/mod/polytone>
+
+<https://modrinth.com/mod/puzzle>
+
+<https://modrinth.com/mod/optigui>
+
+<https://modrinth.com/mod/sodium-extra>
+
+<https://modrinth.com/mod/reeses-sodium-options>
+
+<https://modrinth.com/mod/debugify>
+
+<https://modrinth.com/mod/morechathistory>
+
 ## **Obsolete**
 
 |  Mod Name   | Version | Category    | Reason                      | Fabric                                                          |
