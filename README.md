@@ -1,6 +1,6 @@
 # **Minecraft Client Side Mods - 1.17.1 - Fabric**
 
-## **Game Feel**
+## **Game Feel/Look**
 
 - [**Better Beds**](https://modrinth.com/mod/better-beds)
 
@@ -17,12 +17,6 @@ Makes dropped items blink when they are about to despawn
 - [**Smooth Skies**](https://www.curseforge.com/minecraft/mc-mods/clear-skies)
 
   Smooths out the skybox colors on far render distances.
-
-- [**Continuity**](https://modrinth.com/mod/continuity)
-
-  Adds support for connected textures
-
-  - **Optifine format (not compatible with CTM/Chisel packs?)**
 
 - [**Astrocraft**](https://modrinth.com/mod/astrocraft)
 
@@ -65,6 +59,10 @@ Similar to Optifine's dynamic lights
 - [**Iris Shaders**](https://irisshaders.net/download.html#)
 
   Adds shader support for fabric with Sodium
+
+- [**3D Skin Layers**](https://modrinth.com/mod/3dskinlayers)
+
+  Render the player skin layer in 3d!
 
 ## **HUD**
 
@@ -180,6 +178,22 @@ Similar to Optifine's dynamic lights
 
   Replaces the ping bars with ms readings
 
+- [**Smooth Scroll**](https://modrinth.com/mod/smooth-scroll)
+
+  Adds smooth scrolling to a variety of HUD elements
+
+- [**Remove Reloading Screen**](https://modrinth.com/mod/rrls)
+
+  Makes resource packs load in the background, allowing you to do other things while waiting.
+
+- [**Chat Animation**](https://modrinth.com/mod/chatanimation)
+
+  Makes chat messages appear with a smooth animation
+
+- [**Inventory Profiles Next**](https://modrinth.com/mod/inventory-profiles-next)
+
+  Various inventory and tool management/sorting utilities
+
 ## **Gameplay**
 
 - [**Auto Fishing**](https://modrinth.com/mod/x+-autofish)
@@ -254,9 +268,31 @@ Similar to Optifine's dynamic lights
 
   Adds mixin traces to crash logs
 
+- [**Mixin Conflict Helper**](https://modrinth.com/mod/mixin-conflict-helper)
+
+  User-friendly errors for Mixin conflicts.
+
+- [**StackDeobfuscator**](https://modrinth.com/mod/stackdeobf)
+
+  Remaps logged stacktraces to readable mappings
+
 - [**Borderless Mining**](https://modrinth.com/mod/borderless-mining)
 
   Changes fullscreen to use a borderless window.
+
+- [**Model Gap Fix**](https://modrinth.com/mod/modelfix)
+
+  Fixes gaps in Block Models and Item Models
+
+- [**Debugify**](https://modrinth.com/mod/debugify)
+
+  Fixes Minecraft bugs found on the bug tracker
+
+  - Implements [ToolTipFix](https://modrinth.com/mod/tooltipfix), [No Telemetry](https://modrinth.com/mod/no-telemetry) and many other single-bug mods (No hard conflicts)
+
+- [**More Chat History**](https://modrinth.com/mod/debugify)
+
+  Increases the maximum length of chat history
 
 ## **Performance**
 
@@ -292,6 +328,8 @@ Similar to Optifine's dynamic lights
 
   Improves FPS
 
+  - To use alongside [Sodium Extra](https://modrinth.com/mod/sodium-extra), [Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) and [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
+
 - [**Enhanced Block Entities**](https://modrinth.com/mod/ebe)
 
   Optimises some blocks such as chests to produce less lag
@@ -302,6 +340,18 @@ Similar to Optifine's dynamic lights
 
   Reduces RAM usage
 
+- [**ImmediatelyFast**](https://modrinth.com/mod/immediatelyfast)
+
+  Speed up immediate mode rendering in Minecraft
+
+- [**Language Reload**](https://modrinth.com/mod/language-reload)
+
+  Reduces load times and adds fallbacks for languages
+
+- [**ModernFix**](https://modrinth.com/mod/modernfix)
+
+  Various performance tweaks, bugfixes and other nice to haves
+
 ## **Other**
 
 - [**Pling**](https://modrinth.com/mod/pling)
@@ -309,6 +359,42 @@ Similar to Optifine's dynamic lights
   Plays a sound when the game (or a world) finishes loading
 
   - Not compatible with dashloader? (Game load sound does not play, needs cause)
+
+## **Optifine Compat**
+
+- [**Puzzle**](https://modrinth.com/mod/puzzle)
+
+  GUI configuration screen for various Optifine compat mods
+
+- [**Continuity**](https://modrinth.com/mod/continuity)
+
+  Adds support for connected textures
+
+  - **Optifine format (not compatible with CTM/Chisel packs?)**
+
+- [**Animatica**](https://modrinth.com/mod/animatica)
+
+  A mod implementing the OptiFine/MCPatcher animated texture format
+
+- [**CIT Resewn**](https://modrinth.com/mod/cit-resewn)
+
+  Re-implements Optifine/MCPatcher's Custom Item Textures
+
+- [**Entity Model Features**](https://modrinth.com/mod/entity-model-features)
+
+  Optifine custom entity models
+
+- [**Entity Texture Features**](https://modrinth.com/mod/entitytexturefeatures)
+
+  Optifine emissive, Random & Custom textures
+
+- [**Polytone**](https://modrinth.com/mod/polytone)
+
+  Implements a bunch of color related optifine features
+
+- [**OptiGUI**](https://modrinth.com/mod/optigui)
+
+  OptiFine custom GUI resource pack support
 
 **Libraries**
 
@@ -457,59 +543,11 @@ Similar to Optifine's dynamic lights
 
 <https://modrinth.com/mod/map-tooltip>
 
-<https://modrinth.com/mod/tooltipfix>
-
 <https://modrinth.com/mod/enchanted-tooltips>
 
 <https://modrinth.com/mod/cherished-worlds>
 
 <https://modrinth.com/mod/frostbytes-improved-inventory>
-
-<https://modrinth.com/mod/smooth-scroll>
-
-<https://modrinth.com/mod/immediatelyfast>
-
-<https://modrinth.com/mod/language-reload>
-
-<https://modrinth.com/mod/modernfix>
-
-<https://modrinth.com/mod/rrls>
-
-Should just have a "Optifine compat" category with a lot of these:
-
-<https://modrinth.com/mod/animatica>
-
-<https://modrinth.com/mod/cit-resewn>
-
-<https://modrinth.com/mod/entity-model-features>
-
-<https://modrinth.com/mod/entitytexturefeatures>
-
-<https://modrinth.com/mod/modelfix>
-
-<https://modrinth.com/mod/polytone>
-
-<https://modrinth.com/mod/puzzle>
-
-<https://modrinth.com/mod/optigui>
-
-<https://modrinth.com/mod/sodium-extra>
-
-<https://modrinth.com/mod/reeses-sodium-options>
-
-<https://modrinth.com/mod/debugify>
-
-<https://modrinth.com/mod/morechathistory>
-
-<https://modrinth.com/mod/chatanimation>
-
-<https://modrinth.com/mod/mixin-conflict-helper>
-
-<https://modrinth.com/mod/modelfix>
-
-<https://modrinth.com/mod/inventory-profiles-next>
-
-<https://modrinth.com/mod/3dskinlayers>
 
 ## **Abandoned**
 
