@@ -1,4 +1,4 @@
-# **Minecraft Client Side Mods - 1.17.1 - Fabric**
+# **Minecraft Client Side Mods - 1.20.1 - Fabric**
 
 ## **Game Feel/Look**
 
