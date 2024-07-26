@@ -64,6 +64,12 @@ Similar to Optifine's dynamic lights
 
   Render the player skin layer in 3d!
 
+- [**Distant Horizons**](https://modrinth.com/mod/distanthorizons)
+
+  See farther without turning your game into a slide show
+
+  - An alternative is [Bobby](https://modrinth.com/mod/bobby) though it lacks an LOD system
+
 ## **HUD**
 
 - [**Better Advancements**](https://modrinth.com/mod/better-advancements)
@@ -127,6 +133,8 @@ Similar to Optifine's dynamic lights
   JEI for fabric
 
   - ❓Use [EMI](https://modrinth.com/mod/emi)+JEI?
+
+  - **Extras:** [Roughly Enough Resources](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources)
 
 - [**Roughly Searchable**](https://modrinth.com/mod/roughly-searchable)
 
@@ -194,6 +202,10 @@ Similar to Optifine's dynamic lights
 
   Various inventory and tool management/sorting utilities
 
+- [**Crafting Tweaks**](https://modrinth.com/mod/crafting-tweaks)
+
+  Adds utility buttons when crafting
+
 ## **Gameplay**
 
 - [**Auto Fishing**](https://modrinth.com/mod/x+-autofish)
@@ -236,6 +248,8 @@ Similar to Optifine's dynamic lights
 
   Larger screenshots using the `F9` keybind.
 
+  - ❗A better implementation may be provided by [ResolutionControl+](https://modrinth.com/mod/resolution-control-plus) ([ResolutionControl++](https://modrinth.com/mod/resolution-control-plus-plus), [ResolutionControl 3](https://modrinth.com/mod/resolutioncontrol3)) aside from render resolution control
+
 - [**Litematica**](https://www.curseforge.com/minecraft/mc-mods/litematica)
 
   Helps working with schematics
@@ -259,6 +273,8 @@ Similar to Optifine's dynamic lights
 - [**Amecs**](https://modrinth.com/mod/amecs)
 
   Allows the use of modifier keys, introduces control search bar
+
+  - Search bar also provided by [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 
 - [**Light Overlay**](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
 
@@ -293,6 +309,10 @@ Similar to Optifine's dynamic lights
 - [**More Chat History**](https://modrinth.com/mod/debugify)
 
   Increases the maximum length of chat history
+
+- [**Cherised Worlds**](https://modrinth.com/mod/cherished-worlds)
+
+  Adds the ability to favourite worlds
 
 ## **Performance**
 
@@ -398,57 +418,54 @@ Similar to Optifine's dynamic lights
 
 **Libraries**
 
-- [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/)
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 
-- [Malilib](https://www.curseforge.com/minecraft/mc-mods/malilib)
+- [Malilib](https://modrinth.com/mod/malilib)
 
-- [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
+- [Architectury](https://modrinth.com/mod/architectury-api)
 
-- [Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
-
-- [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
-
-- [AutoConfig](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api)
+- [Cloth Config](https://modrinth.com/mod/cloth-config)
 
 - [Fireplace Lib](https://modrinth.com/mod/fireplace-lib)
 
 ## **Not used**
 
-|          Mod Name          | Version | Category  | Fabric                                                                          |
-| :------------------------: | :-----: | --------- | ------------------------------------------------------------------------------- |
-|        Servers Plus        | 1.16.5  | HUD       | [Yes](https://modrinth.com/mod/serversplus)                                     |
-|    Custom Splash Screen    | 1.17.1  | HUD       | [Yes](https://modrinth.com/mod/custom-splash-screen/)                           |
-|            Grid            | 1.17.1  | Utility   | [Yes](https://modrinth.com/mod/grid)                                            |
-|        NBT Tooltip         | 1.17.1  | HUD       | [Yes](https://modrinth.com/mod/nbttooltip)                                      |
-| Customizable Player Models | 1.17.1  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/custom-player-models-fabric) |
-|          Resclone          |  1.17   | Utility   | [Yes](https://modrinth.com/mod/resclone)                                        |
-|         SeedMapper         | 1.17.1  | Utility   | [Yes](https://modrinth.com/mod/seedmapper)                                      |
-|         ThatOrThis         |  1.17   | Utility   | [Yes](https://modrinth.com/mod/thatorthis)                                      |
-|     Simple Discord RPC     |  1.17   | Utility   | [Yes](https://modrinth.com/mod/simple-discord-rpc)                              |
-|      Visual Overhaul       |  1.17   | Game Feel | [Yes](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul)             |
-|           Bobby            |  1.17   | Game Feel | [Yes](https://www.curseforge.com/minecraft/mc-mods/bobby)                       |
-|         HUDTweaks          |  1.17   | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/hudtweaks)                   |
-|         BetterPVP          |  1.17   | HUD       | [Yes](https://www.planetminecraft.com/mod/164-better-pvp-v10/)                  |
-|        Physics Mod         | 1.17.1  | Gameplay  | [Yes](https://www.curseforge.com/minecraft/mc-mods/physics-mod)                 |
-|           Beenfo           | 1.17.1  | Gameplay  | [Yes](https://modrinth.com/mod/beenfo)                                          |
-|         WorldTime          | 1.17.1  | HUD       | [Yes](https://modrinth.com/mod/worldtime)                                       |
-|      Invisible Frames      |  1.17   | Game Feel | [Yes](https://modrinth.com/mod/invisframes)                                     |
-|       Sword Blocking       | 1.21.1  | Game Feel | [Yes](https://www.curseforge.com/minecraft/mc-mods/sword-blocking)              |
-|         FancyMenu          |  1.21   | HUD       | [Yes](https://modrinth.com/mod/fancymenu)                                       |
-|    Critical Orientation    | 1.20.1  | Gameplay  | [Yes](https://modrinth.com/mod/orientation)                                     |
-|        FlightHelper        | 1.20.4  | Gameplay  | [Yes](https://modrinth.com/mod/flighthelper)                                    |
-|         Tweakeroo          | 1.20.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)                   |
-|         WorldEdit          |  1.21   | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/worldedit)                   |
-|       FPS - Display        |  1.21   | HUD       | [Yes](https://modrinth.com/mod/fpsdisplay)                                      |
-|        OP Items Tab        |  1.21   | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/op-items-tab)                |
-|   Quicker Connect Button   |  1.21   | HUD       | [Yes](https://modrinth.com/mod/quicker-connect-button)                          |
-|          Textbook          | 1.20.1  | HUD       | [Yes](https://modrinth.com/mod/textbook)                                        |
-|     Auto Third Person      | 1.20.1  | Gameplay  | [Yes](https://modrinth.com/mod/auto-third-person)                               |
-|          AFKPeace          | 1.20.4  | Gameplay  | [Yes](https://modrinth.com/mod/afkpeace)                                        |
-|          No Strip          |  1.21   | Gameplay  | [Yes](https://modrinth.com/mod/no-strip)                                        |
-|          PetOwner          |  1.21   | Gameplay  | [Yes](https://modrinth.com/mod/petowner)                                        |
-|        Piston Order        |  1.21   | Gameplay  | [Yes](https://modrinth.com/mod/pistorder)                                       |
-|          FireHud           |  1.21   | Game Feel | [Yes](https://modrinth.com/mod/firehud)                                         |
+|          Mod Name          | Version | Category  | Fabric                                                           |
+| :------------------------: | :-----: | --------- | ---------------------------------------------------------------- |
+|    Custom Splash Screen    | 1.20.1  | HUD       | [Yes](https://modrinth.com/mod/custom-splash-screen/)            |
+|            Grid            | 1.20.4  | Utility   | [Yes](https://modrinth.com/mod/grid)                             |
+|        NBT Tooltip         | 1.20.4  | HUD       | [Yes](https://modrinth.com/mod/nbttooltip)                       |
+| Customizable Player Models |  1.21   | HUD       | [Yes](https://modrinth.com/plugin/custom-player-models)          |
+|          Resclone          |  1.21   | Utility   | [Yes](https://modrinth.com/mod/resclone)                         |
+|         SeedMapper         | 1.20.6  | Utility   | [Yes](https://modrinth.com/mod/seedmapper)                       |
+|     Simple Discord RPC     |  1.21   | Utility   | [Yes](https://modrinth.com/mod/simple-discord-rpc)               |
+|      Visual Overhaul       |  1.21   | Game Feel | [Yes](https://modrinth.com/mod/visual-overhaul)                  |
+|         BetterPVP          |  1.20   | HUD       | [Yes](https://www.planetminecraft.com/mod/164-better-pvp-v10/)   |
+|        Physics Mod         |  1.21   | Gameplay  | [Yes](https://modrinth.com/mod/physicsmod)                       |
+|       Sword Blocking       | 1.21.1  | Game Feel | [Yes](https://modrinth.com/mod/sword-blocking)                   |
+|         FancyMenu          |  1.21   | HUD       | [Yes](https://modrinth.com/mod/fancymenu)                        |
+|    Critical Orientation    | 1.20.1  | Gameplay  | [Yes](https://modrinth.com/mod/orientation)                      |
+|         Tweakeroo          | 1.20.5  | Utility   | [Yes](https://modrinth.com/mod/tweakeroo)                        |
+|         WorldEdit          |  1.21   | Utility   | [Yes](https://modrinth.com/plugin/worldedit)                     |
+|       WorldEdit CUI        | 1.20.4  | Utility   | [Yes](https://modrinth.com/mod/worldedit-cui)                    |
+|       FPS - Display        |  1.21   | HUD       | [Yes](https://modrinth.com/mod/fpsdisplay)                       |
+|        OP Items Tab        |  1.21   | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/op-items-tab) |
+|   Quicker Connect Button   |  1.21   | HUD       | [Yes](https://modrinth.com/mod/quicker-connect-button)           |
+|          Textbook          | 1.20.1  | HUD       | [Yes](https://modrinth.com/mod/textbook)                         |
+|     Auto Third Person      | 1.20.1  | Gameplay  | [Yes](https://modrinth.com/mod/auto-third-person)                |
+|          AFKPeace          | 1.20.4  | Gameplay  | [Yes](https://modrinth.com/mod/afkpeace)                         |
+|          No Strip          |  1.21   | Gameplay  | [Yes](https://modrinth.com/mod/no-strip)                         |
+|          PetOwner          |  1.21   | Gameplay  | [Yes](https://modrinth.com/mod/petowner)                         |
+|        Piston Order        |  1.21   | Gameplay  | [Yes](https://modrinth.com/mod/pistorder)                        |
+|          FireHud           |  1.21   | Game Feel | [Yes](https://modrinth.com/mod/firehud)                          |
+|         Replay Mod         |  1.21   | Utility   | [Yes](https://modrinth.com/mod/replaymod)                        |
+|     Better Eating Mod      | 1.20.1  | Gameplay  | [Yes](https://modrinth.com/mod/better-eating)                    |
+|    BetterEnchantedBooks    | 1.20.6  | Game Feel | [Yes](https://modrinth.com/mod/better-enchanted-books)           |
+|       Chunks Fade In       |  1.21   | Game Feel | [Yes](https://modrinth.com/mod/chunks-fade-in)                   |
+|        Drip Sounds         | 1.20.4  | Game Feel | [Yes](https://modrinth.com/mod/dripsounds-fabric)                |
+|    Dynamic Surroundings    | 1.20.4  | Game Feel | [Yes](https://modrinth.com/mod/dynamicsurroundingsfabric)        |
+|       Client Tweaks        | 1.16.5  | Utility   | [Yes](https://modrinth.com/mod/client-tweaks)                    |
+|      Whats That Slot       |  1.21   | HUD       | [Yes](https://modrinth.com/mod/whats-that-slot)                  |
 
 ### **Performance**
 
@@ -463,6 +480,12 @@ Similar to Optifine's dynamic lights
   An alternative look to Optifine's grass
 
   - **Incompatible with DashLoader**
+
+- [**Bedrock Waters**](https://modrinth.com/mod/bedrockwaters)
+
+  Implements Bedrock style water coloring
+
+  - Incompatible with [sodium](https://github.com/2Retr0/BedrockWaters/issues/51)
 
 ### **HUD**
 
@@ -480,62 +503,23 @@ Similar to Optifine's dynamic lights
 
 ## **Older**
 
-|         Mod Name          | Version | Category    | Fabric                                                                                                                        |
-| :-----------------------: | :-----: | ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
-|        Replay Mod         | 1.16.5  | Utility     | [Yes](https://www.replaymod.com/download/)                                                                                    |
-|     Inventory Sorter      | 1.16.1  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)                                                          |
-|        VanillaFix         | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/vanillafix) [Extra](https://github.com/DimensionalDevelopment/VanillaFix/) |
-|          ReAuth           | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/reauth-fabric)                                                             |
-|      Better Foilage       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-foliage)                                                            |
-|         Nicephore         | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/nicephore-fabric)                                                          |
-|     Helpful Hitboxes      | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/helpful-hitboxes-fabric)                                                   |
-|       RandomPatches       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)                                                      |
-|       Recently Used       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/recently-used)                                                             |
-|        Smarter HUD        | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/smarter-hud)                                                               |
-|       Recently Used       | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/recently-used/files/3087343)                                               |
-|       Fabripresence       | 1.16.5  | Utility     | [Yes](https://modrinth.com/mod/fabripresence)                                                                                 |
-|        Smooth Boot        | 1.16.5  | Performance | [Yes](https://modrinth.com/mod/smoothboot-fabric)                                                                             |
-|        MinimalMenu        | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/minimalmenu)                                                                                   |
-|      Don't Drop It!       | 1.16.4  | Gameplay    | [Yes](https://modrinth.com/mod/HcVOCzMh)                                                                                      |
-|       QuickReplant        | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/quickreplant)                                                                                  |
-|     Better Eating Mod     | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/better-eating)                                                                                 |
-|         QuickCalc         | 1.16.5  | Utility     | [Yes](https://modrinth.com/mod/quickcalc)                                                                                     |
-|   BetterEnchantedBooks    | 1.16.5  | Game Feel   | [Yes](https://modrinth.com/mod/better-enchanted-books)                                                                        |
-|     Head-down Display     | 1.16.4  | HUD         | [Yes](https://modrinth.com/mod/hdd)                                                                                           |
-|       AdvancedChat        | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/advancedchat)                                                                                  |
-| Connected Block Textures  | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures)                                                  |
-|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
-|     Better World List     | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-world-list)                                                         |
-| Roughly Enough Resourdes  | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources)                                                  |
-| Smooth Scrolling Anywhere | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric)                                        |
-|       WorldEdit CUI       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric)                                                       |
-|    Better Local Server    | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-local-server)                                                       |
-|          AFKTape          | 1.16.5  | Gameplay    | [Yes](https://www.curseforge.com/minecraft/mc-mods/afktape)                                                                   |
-|      Bedrock Waters       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/bedrockwaters)                                                             |
-|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
-|    ResolutionControl+     |  1.17   | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/resolutioncontrol/files)                                                   |
-|        Drip Sounds        | 1.19.3  | Game Feel   | [Yes](https://modrinth.com/mod/dripsounds-fabric)                                                                             |
-|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
-|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
-|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
-|       Smooth Chunks       | 1.16.5  | Game Feel   | [Yes](https://www.curseforge.com/minecraft/mc-mods/smooth-chunks)                                                             |
+|     Mod Name     | Version | Category | Fabric                                                                      |
+| :--------------: | :-----: | -------- | --------------------------------------------------------------------------- |
+| Helpful Hitboxes | 1.19.2  | Utility  | [Yes](https://www.curseforge.com/minecraft/mc-mods/helpful-hitboxes-fabric) |
+|   AdvancedChat   | 1.19.4  | HUD      | [Yes](https://modrinth.com/mod/advancedchatcore)                            |
+|    ThatOrThis    |  1.17   | Utility  | [Yes](https://modrinth.com/mod/thatorthis)                                  |
 
 ## **Looking for Fabric equivalent**
 
-|       Mod Name        | Version | Category  | Forge                                                                      |
-| :-------------------: | :-----: | --------- | -------------------------------------------------------------------------- |
-|  Picture In Picture   |  1.12   | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/picture-in-picture-pip) |
-| Armor Thoughtness Bar | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)    |
-|      Controlling      | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/controlling)            |
-| Dynamic Surroundings  | 1.16.5  | Game Feel | [Yes](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)   |
-|    Crafting Tweaks    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)        |
-|     Toast Control     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/toast-control)          |
-|  Swing Through Grass  | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)      |
-|     Client Tweaks     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)          |
-|     Friendly Fire     | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/friendly-fire)          |
-|       KleeSlabs       | 1.16.5  | Utility   | [Yes](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)              |
-|    Whats That Slot    | 1.16.5  | HUD       | [Yes](https://www.curseforge.com/minecraft/mc-mods/whats-that-slot)        |
-|        Findme         | 1.16.5  | Gameplay  | [Yes](https://www.curseforge.com/minecraft/mc-mods/findme)                 |
+|       Mod Name        | Version | Category | Forge                                                                      |
+| :-------------------: | :-----: | -------- | -------------------------------------------------------------------------- |
+|  Picture In Picture   |  1.12   | HUD      | [Yes](https://www.curseforge.com/minecraft/mc-mods/picture-in-picture-pip) |
+| Armor Thoughtness Bar | 1.19.3  | HUD      | [Yes](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)    |
+|     Toast Control     |  1.21   | Utility  | [Yes](https://www.curseforge.com/minecraft/mc-mods/toast-control)          |
+|  Swing Through Grass  | 1.19.2  | Utility  | [Yes](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)      |
+|     Friendly Fire     | 1.20.4  | Utility  | [Yes](https://www.curseforge.com/minecraft/mc-mods/friendly-fire)          |
+|       KleeSlabs       |  1.21   | Utility  | [Yes](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)              |
+|        Findme         |  1.21   | Gameplay | [Yes](https://www.curseforge.com/minecraft/mc-mods/findme)                 |
 
 **Needs Clasifying/Testing**
 
@@ -544,8 +528,6 @@ Similar to Optifine's dynamic lights
 <https://modrinth.com/mod/map-tooltip>
 
 <https://modrinth.com/mod/enchanted-tooltips>
-
-<https://modrinth.com/mod/cherished-worlds>
 
 <https://modrinth.com/mod/frostbytes-improved-inventory>
 
@@ -564,6 +546,24 @@ Similar to Optifine's dynamic lights
 |        Sign Copy         |  1.17   | Gameplay    | [Yes](https://www.curseforge.com/minecraft/mc-mods/signcopy)            |
 |       Audio Output       |  1.17   | Gameplay    | [Yes](https://www.curseforge.com/minecraft/mc-mods/audio-output)        |
 |         Hydrogen         | 1.17.1  | Performance | [Yes](https://modrinth.com/mod/hydrogen/)                               |
+|       Servers Plus       | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/serversplus)                             |
+|        HUDTweaks         | 1.18.1  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/hudtweaks)           |
+|          Beenfo          | 1.20.4  | Gameplay    | [Yes](https://modrinth.com/mod/beenfo)                                  |
+|        WorldTime         | 1.20.4  | HUD         | [Yes](https://modrinth.com/mod/worldtime)                               |
+|       FlightHelper       | 1.20.4  | Gameplay    | [Yes](https://modrinth.com/mod/flighthelper)                            |
+|      Better Foilage      | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-foliage)      |
+|        Nicephore         | 1.19.3  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/nicephore-fabric)    |
+|      RandomPatches       | 1.16.5  | Utility     | [Yes](https://modrinth.com/mod/randompatches)                           |
+|      Recently Used       | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/recently-used)       |
+|       Smarter HUD        | 1.16.5  | Utility     | [Yes](https://www.curseforge.com/minecraft/mc-mods/smarter-hud)         |
+|      Fabripresence       | 1.16.5  | Utility     | [Yes](https://modrinth.com/mod/fabripresence)                           |
+|       MinimalMenu        | 1.16.5  | HUD         | [Yes](https://modrinth.com/mod/minimalmenu)                             |
+|      Don't Drop It!      | 1.16.4  | Gameplay    | [Yes](https://modrinth.com/mod/HcVOCzMh)                                |
+|       QuickReplant       | 1.16.5  | Gameplay    | [Yes](https://modrinth.com/mod/quickreplant)                            |
+|        QuickCalc         | 1.17.1  | Utility     | [Yes](https://modrinth.com/mod/quickcalc)                               |
+|    Head-down Display     | 1.16.4  | HUD         | [Yes](https://modrinth.com/mod/hdd)                                     |
+|    Better World List     | 1.16.5  | HUD         | [Yes](https://www.curseforge.com/minecraft/mc-mods/better-world-list)   |
+|         AFKTape          | 1.16.5  | Gameplay    | [Yes](https://www.curseforge.com/minecraft/mc-mods/afktape)             |
 
 ## **Obsolete**
 
@@ -572,3 +572,4 @@ Similar to Optifine's dynamic lights
 | Damage Tilt | 1.19.0  | Game Feel   | Fixed in 1.19.4+ (MC-26678)   | [Yes](https://www.curseforge.com/minecraft/mc-mods/damage-tilt) |
 |  Starlight  | 1.19.0  | Performance | Lighting engine rewrite       | [Yes](https://github.com/Tuinity/Starlight)                     |
 |   LazyDFU   | 1.20.6  | Performance | Loading improvements on >1.20 | [Yes](https://modrinth.com/mod/lazydfu)                         |
+| Smooth Boot | 1.16.5  | Performance | Fixed in 1.19.4+              | [Yes](https://modrinth.com/mod/smoothboot-fabric)               |
